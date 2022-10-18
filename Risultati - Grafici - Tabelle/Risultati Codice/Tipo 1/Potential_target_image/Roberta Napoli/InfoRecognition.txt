@@ -1,0 +1,32 @@
+Roberta Napoli - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.7483066 - .\Potential_target_image\Roberta Napoli\Roberta Napoli.jpg - https://scontent.fmxp6-1.fna.fbcdn.net/v/t1.6435-9/117623317_2628288087500187_466414913130379047_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=aewgTuV0uDQAX8LnRbe&_nc_ht=scontent.fmxp6-1.fna&oh=00_AT8Liqeq8BgoJwlNwCuYrc899ltQSK5wpKBNCOWYZiJ-dw&oe=634C4DE4
+Result: False
+
+False - 0.76316426 - .\Potential_target_image\Roberta Napoli\Roberta Napoli.jpg - https://scontent.fmxp6-1.fna.fbcdn.net/v/t1.6435-9/32423163_109549193255971_6574322674963578880_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=UtgEfB9YqH8AX_LHphy&_nc_ht=scontent.fmxp6-1.fna&oh=00_AT96OCevzfutf2ryRHYi7yus0bRxbUPzitYwju6GEtAoXQ&oe=634949CD
+Result: False
+
+False - 0.76100952 - .\Potential_target_image\Roberta Napoli\Roberta Napoli.jpg - https://scontent.fmxp6-1.fna.fbcdn.net/v/t1.18169-9/22195765_10214476776421212_2773799489746270465_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=lnKkfXy_F6wAX-eFH6h&_nc_ht=scontent.fmxp6-1.fna&oh=00_AT_czXl0Eobhnv96ouqRbSy5eLdqrHlCcmMuFSDn9np8PQ&oe=634945FB
+Result: False
+
+Roberta Napoli - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.66862175 - .\Potential_target_image\Roberta Napoli\Roberta Napoli.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/298221235_737706380641852_2088768902076310768_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=0lJkIQJW9fMAX81EeLp&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-u8sYZ50PXQLE6lw4dtmyxxr_xkoIiz04du_4fucUyWg&oe=632B87E2&_nc_sid=5cbaad
+Result: False
+
+True - 0.51691614 - .\Potential_target_image\Roberta Napoli\Roberta Napoli.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/306865695_761326095156468_7195602261569867173_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=OIy7aJESMQYAX8RbOPA&tn=o61szvshebbUQCXc&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_aug6j6cd1P4-_NbIFSxwX4Z08MhG0lZ80x-34DiqcBw&oe=632B2D49&_nc_sid=5cbaad
+Result: True
+
+Roberta Napoli - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.80483736 - .\Potential_target_image\Roberta Napoli\Roberta Napoli.jpg - https://media-exp1.licdn.com/dms/image/C4D03AQE3YitPdxFnSg/profile-displayphoto-shrink_100_100/0/1579950305489?e=1668643200&v=beta&t=ypz3mN2a-Y9FMsLIFaUwPEJPJRQ33S1ekD9V32SzxYE
+False - 0.8391732 - .\Potential_target_image\Roberta Napoli\Roberta Napoli_IG.jpg - https://media-exp1.licdn.com/dms/image/C4D03AQE3YitPdxFnSg/profile-displayphoto-shrink_100_100/0/1579950305489?e=1668643200&v=beta&t=ypz3mN2a-Y9FMsLIFaUwPEJPJRQ33S1ekD9V32SzxYE
+Result: False
+
+False - 0.6806115 - .\Potential_target_image\Roberta Napoli\Roberta Napoli.jpg - https://media-exp1.licdn.com/dms/image/C4D03AQEIUgLprlWlwg/profile-displayphoto-shrink_100_100/0/1602621590435?e=1668643200&v=beta&t=TdZI1CWUcSM2hBlzc-WKYCbXYB8yFBoT1jySBjIvJc0
+False - 0.66036338 - .\Potential_target_image\Roberta Napoli\Roberta Napoli_IG.jpg - https://media-exp1.licdn.com/dms/image/C4D03AQEIUgLprlWlwg/profile-displayphoto-shrink_100_100/0/1602621590435?e=1668643200&v=beta&t=TdZI1CWUcSM2hBlzc-WKYCbXYB8yFBoT1jySBjIvJc0
+Result: False
+

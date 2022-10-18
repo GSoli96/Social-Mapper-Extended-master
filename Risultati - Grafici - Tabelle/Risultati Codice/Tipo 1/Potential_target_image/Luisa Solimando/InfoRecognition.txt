@@ -1,0 +1,24 @@
+Luisa Solimando - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.89326752 - .\Potential_target_image\Luisa Solimando\Luisa Solimando.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t1.6435-9/185232735_304109704705651_4956195527098163921_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=j32YK64lep8AX93cuRP&_nc_ht=scontent.fnap2-1.fna&oh=00_AT8SsEC7xX8Lr9xcD9cs2xiCu51UUPuhsQFJSL9ZzuXZ9w&oe=634C2929
+Result: False
+
+False - 0.76931476 - .\Potential_target_image\Luisa Solimando\Luisa Solimando.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t1.6435-9/82281988_816178505575596_5641578870904754275_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=KDveuav2n24AX-hmVQD&_nc_ht=scontent.fnap2-1.fna&oh=00_AT9uwFBDExB0ZEu_ncsnszIM85zqhQ-hnzboj_24IqbD-Q&oe=634B8057
+Result: False
+
+False - 0.7978174 - .\Potential_target_image\Luisa Solimando\Luisa Solimando.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t1.6435-9/44988350_100981567574843_8985636040718942208_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=0Wa7UkwTNbIAX_jS5Ml&_nc_ht=scontent.fnap2-1.fna&oh=00_AT8dwy-XuOt6DXC2V1FJ_hVPn4gycLhPqtyxn01P769Umg&oe=634B325F
+Result: False
+
+False - 0.90162574 - .\Potential_target_image\Luisa Solimando\Luisa Solimando.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t1.6435-9/194375665_10159674723860625_6335747518665690056_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=OBWnm4J_tyQAX83ZanP&_nc_ht=scontent.fnap2-1.fna&oh=00_AT-prbfQsrntXTtv9UsP6dRATPMce3tdtN7EiKcQlMQBbw&oe=634B99F1
+Result: False
+
+Luisa Solimando - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+True - 0.32242722 - .\Potential_target_image\Luisa Solimando\Luisa Solimando.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/283360996_430615775566411_5344217957352059942_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=thwHFwEiqNkAX-b0N9R&tn=owHJ2loo8OGPMDvO&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-QL1QHxJY1RVXmoYkcaGewXSfDucrNLjhDd9tPefjKBw&oe=632CA4F7&_nc_sid=5cbaad
+Result: True
+
+Luisa Solimando - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+

@@ -1,0 +1,1 @@
+python3 social_mapper.py -f company -i "IBM" -m accurate -a -t strict

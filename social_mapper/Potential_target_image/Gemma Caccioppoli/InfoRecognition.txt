@@ -1,0 +1,9 @@
+Gemma Caccioppoli - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+Gemma Caccioppoli - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.79702847 - .\Potential_target_image\Gemma Caccioppoli\Gemma Caccioppoli.jpg - https://media-exp1.licdn.com/dms/image/C4D03AQEl1Rpw7nKU7Q/profile-displayphoto-shrink_100_100/0/1645259864337?e=1671062400&v=beta&t=oPSbk11gbJIj0FHHC7w2vpm16tKuVEOcqYvVbimJoSo
+Result: False
+

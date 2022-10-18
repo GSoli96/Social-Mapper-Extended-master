@@ -1,0 +1,24 @@
+Eleonora Calò - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.71735732 - .\Potential_target_image\Eleonora Calò\Eleonora Calò.jpg - https://scontent.fmxp6-1.fna.fbcdn.net/v/t1.6435-9/67967859_10217835233946314_8865745546229317632_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=2z2WolEEPh4AX8L-6TG&_nc_ht=scontent.fmxp6-1.fna&oh=00_AT-QCch0KlSquPhHu8gS21yBu1mciHMtHZmuSpr1il4qAQ&oe=6348F573
+Result: False
+
+True - 0.47456695 - .\Potential_target_image\Eleonora Calò\Eleonora Calò.jpg - https://scontent.fmxp6-1.fna.fbcdn.net/v/t1.6435-9/59486653_10214436107197459_7745837389347553280_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=1dH7pkS3jW8AX-85mFR&_nc_ht=scontent.fmxp6-1.fna&oh=00_AT8HUj3A7AOZ2xSEcmMtupSF8qI3LDIK4zE2J80kYemHIQ&oe=634C78C2
+Result: True
+
+Eleonora Calò - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.66658295 - .\Potential_target_image\Eleonora Calò\Eleonora Calò.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/301681692_810884886751130_6221034355350629001_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=I_q_jIWqwCEAX_AYA9-&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8pbbBkTCrLqyS8vCFLiSiPHaTVbePo-VgTh6zJdyLgoQ&oe=632BFEA6&_nc_sid=5cbaad
+True - 0.58969038 - .\Potential_target_image\Eleonora Calò\Eleonora Calò_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/301681692_810884886751130_6221034355350629001_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=I_q_jIWqwCEAX_AYA9-&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8pbbBkTCrLqyS8vCFLiSiPHaTVbePo-VgTh6zJdyLgoQ&oe=632BFEA6&_nc_sid=5cbaad
+Result: True
+
+Eleonora Calò - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+
+True - 0.19729091 - .\Potential_target_image\Eleonora Calò\Eleonora Calò.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQE79ymbNHkiXQ/profile-displayphoto-shrink_100_100/0/1622801039506?e=1668643200&v=beta&t=7aFZaHXS3Qs29EYqUQjA_h89V8f3CJG2992dJzen0w0
+True - 0.4748483 - .\Potential_target_image\Eleonora Calò\Eleonora Calò_FB.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQE79ymbNHkiXQ/profile-displayphoto-shrink_100_100/0/1622801039506?e=1668643200&v=beta&t=7aFZaHXS3Qs29EYqUQjA_h89V8f3CJG2992dJzen0w0
+False - 0.66781638 - .\Potential_target_image\Eleonora Calò\Eleonora Calò_IG.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQE79ymbNHkiXQ/profile-displayphoto-shrink_100_100/0/1622801039506?e=1668643200&v=beta&t=7aFZaHXS3Qs29EYqUQjA_h89V8f3CJG2992dJzen0w0
+Result: True
+

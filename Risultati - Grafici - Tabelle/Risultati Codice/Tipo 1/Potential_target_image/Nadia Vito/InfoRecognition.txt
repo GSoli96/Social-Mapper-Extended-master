@@ -1,0 +1,36 @@
+Nadia Vito - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+True - 0.46682491 - .\Potential_target_image\Nadia Vito\Nadia Vito.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t31.18172-8/20229783_1592006317476931_18357817379495611_o.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=iVkscdmwh1EAX8hMlf8&_nc_ht=scontent.fnap2-1.fna&oh=00_AT_neVENVxX8hM9S_OeKllTcelGEw2uziKbjBBCesM5sgw&oe=634B9EE0
+Result: True
+
+Nadia Vito - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+True - 0.53816614 - .\Potential_target_image\Nadia Vito\Nadia Vito.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/287634093_752385292568212_8628356908745503608_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=pFXNnnKB47YAX-koUJf&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9ajalMvDt-VLKlx_ga8_JeezqBHZmTOFl14hmaV0qouQ&oe=632C957B&_nc_sid=5cbaad
+True - 0.51814214 - .\Potential_target_image\Nadia Vito\Nadia Vito_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/287634093_752385292568212_8628356908745503608_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=pFXNnnKB47YAX-koUJf&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9ajalMvDt-VLKlx_ga8_JeezqBHZmTOFl14hmaV0qouQ&oe=632C957B&_nc_sid=5cbaad
+Result: True
+
+Nadia Vito - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.72908976 - .\Potential_target_image\Nadia Vito\Nadia Vito.jpg - https://media-exp1.licdn.com/dms/image/C5603AQGmjRx6aaxDuQ/profile-displayphoto-shrink_100_100/0/1517401714110?e=1668643200&v=beta&t=hLQP321Z3y5tX5IViLkFsSFOFThsIoKNrxkVqkTFitk
+False - 0.68903053 - .\Potential_target_image\Nadia Vito\Nadia Vito_FB.jpg - https://media-exp1.licdn.com/dms/image/C5603AQGmjRx6aaxDuQ/profile-displayphoto-shrink_100_100/0/1517401714110?e=1668643200&v=beta&t=hLQP321Z3y5tX5IViLkFsSFOFThsIoKNrxkVqkTFitk
+False - 0.67750557 - .\Potential_target_image\Nadia Vito\Nadia Vito_IG.jpg - https://media-exp1.licdn.com/dms/image/C5603AQGmjRx6aaxDuQ/profile-displayphoto-shrink_100_100/0/1517401714110?e=1668643200&v=beta&t=hLQP321Z3y5tX5IViLkFsSFOFThsIoKNrxkVqkTFitk
+Result: False
+
+False - 0.75706643 - .\Potential_target_image\Nadia Vito\Nadia Vito.jpg - https://media-exp1.licdn.com/dms/image/C5603AQH_Lu1LfhSPrQ/profile-displayphoto-shrink_100_100/0/1516617317684?e=1668643200&v=beta&t=f8S-NdycYN6u0TBSt7C6K8gpCe64J6YoalE-O2Jg08s
+False - 0.84393156 - .\Potential_target_image\Nadia Vito\Nadia Vito_FB.jpg - https://media-exp1.licdn.com/dms/image/C5603AQH_Lu1LfhSPrQ/profile-displayphoto-shrink_100_100/0/1516617317684?e=1668643200&v=beta&t=f8S-NdycYN6u0TBSt7C6K8gpCe64J6YoalE-O2Jg08s
+False - 0.71320298 - .\Potential_target_image\Nadia Vito\Nadia Vito_IG.jpg - https://media-exp1.licdn.com/dms/image/C5603AQH_Lu1LfhSPrQ/profile-displayphoto-shrink_100_100/0/1516617317684?e=1668643200&v=beta&t=f8S-NdycYN6u0TBSt7C6K8gpCe64J6YoalE-O2Jg08s
+Result: False
+
+False - 0.72504723 - .\Potential_target_image\Nadia Vito\Nadia Vito.jpg - https://media-exp1.licdn.com/dms/image/C5603AQFJPZlQ14Hrig/profile-displayphoto-shrink_100_100/0/1516475995494?e=1668643200&v=beta&t=fdz583XdubrwTWy_F_DZTmZve-8lqjDcnhfCZ8CTGKs
+False - 0.76401894 - .\Potential_target_image\Nadia Vito\Nadia Vito_FB.jpg - https://media-exp1.licdn.com/dms/image/C5603AQFJPZlQ14Hrig/profile-displayphoto-shrink_100_100/0/1516475995494?e=1668643200&v=beta&t=fdz583XdubrwTWy_F_DZTmZve-8lqjDcnhfCZ8CTGKs
+False - 0.67325934 - .\Potential_target_image\Nadia Vito\Nadia Vito_IG.jpg - https://media-exp1.licdn.com/dms/image/C5603AQFJPZlQ14Hrig/profile-displayphoto-shrink_100_100/0/1516475995494?e=1668643200&v=beta&t=fdz583XdubrwTWy_F_DZTmZve-8lqjDcnhfCZ8CTGKs
+Result: False
+
+False - 0.62998574 - .\Potential_target_image\Nadia Vito\Nadia Vito.jpg - https://media-exp1.licdn.com/dms/image/C4D03AQHNYpVGlcXfCA/profile-displayphoto-shrink_100_100/0/1600808316844?e=1668643200&v=beta&t=B5sUqF2tCPSDqSrlJL_vSnkW8WDTSaZQfTLb1B4wllU
+False - 0.65626569 - .\Potential_target_image\Nadia Vito\Nadia Vito_FB.jpg - https://media-exp1.licdn.com/dms/image/C4D03AQHNYpVGlcXfCA/profile-displayphoto-shrink_100_100/0/1600808316844?e=1668643200&v=beta&t=B5sUqF2tCPSDqSrlJL_vSnkW8WDTSaZQfTLb1B4wllU
+True - 0.59976108 - .\Potential_target_image\Nadia Vito\Nadia Vito_IG.jpg - https://media-exp1.licdn.com/dms/image/C4D03AQHNYpVGlcXfCA/profile-displayphoto-shrink_100_100/0/1600808316844?e=1668643200&v=beta&t=B5sUqF2tCPSDqSrlJL_vSnkW8WDTSaZQfTLb1B4wllU
+Result: True
+

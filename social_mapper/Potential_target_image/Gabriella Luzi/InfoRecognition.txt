@@ -1,0 +1,82 @@
+Gabriella Luzi - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.81826134 - .\Potential_target_image\Gabriella Luzi\Gabriella Luzi.jpg - https://scontent.fmxp11-1.fna.fbcdn.net/v/t1.18169-1/13631630_231057730626454_5264422784498194913_n.jpg?stp=dst-jpg_p200x200&_nc_cat=101&ccb=1-7&_nc_sid=7206a8&_nc_ohc=jH1KxQtOvgQAX_3uz6z&_nc_ht=scontent.fmxp11-1.fna&oh=00_AT9qjta5WX2zJ9QkAp-jcSfkmdbnsmqZnej4i9kMXijseA&oe=636CCF33
+Result: False
+
+False - 0.74045286 - .\Potential_target_image\Gabriella Luzi\Gabriella Luzi.jpg - https://scontent.fmxp11-1.fna.fbcdn.net/v/t1.6435-1/192391372_981038712705915_8006440467808166838_n.jpg?stp=dst-jpg_p200x200&_nc_cat=109&ccb=1-7&_nc_sid=7206a8&_nc_ohc=PZkqYnYBJMkAX8pFVNY&_nc_ht=scontent.fmxp11-1.fna&oh=00_AT8C2bK2HUJ3ztOuPSJ56Xtqwq3J9E1OUdexn2opQN-QmQ&oe=636E1261
+Result: False
+
+False - 0.74276825 - .\Potential_target_image\Gabriella Luzi\Gabriella Luzi.jpg - https://scontent.fmxp11-1.fna.fbcdn.net/v/t1.6435-1/135641634_403793327528184_1095490720523526243_n.jpg?stp=dst-jpg_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=7206a8&_nc_ohc=8lGbTP8-dUkAX_IeoA7&_nc_ht=scontent.fmxp11-1.fna&oh=00_AT_SvNzpVXUz2IGvLjtvA3hGWzBIDALOesGsqmc6rUW2LQ&oe=636FF725
+Result: False
+
+False - 0.69978497 - .\Potential_target_image\Gabriella Luzi\Gabriella Luzi.jpg - https://scontent.fmxp11-1.fna.fbcdn.net/v/t31.18172-1/21731773_117600145553528_2159642402270899662_o.jpg?stp=dst-jpg_p200x200&_nc_cat=107&ccb=1-7&_nc_sid=7206a8&_nc_ohc=EeajRAuRnU4AX8tkKxc&_nc_ht=scontent.fmxp11-1.fna&oh=00_AT_6CCtMm8CnuiLf093B94g7fo5fPOYtioOyxBTiiqbzfQ&oe=636F9DE9
+Result: False
+
+False - 0.69978497 - .\Potential_target_image\Gabriella Luzi\Gabriella Luzi.jpg - https://scontent.fmxp11-1.fna.fbcdn.net/v/t31.18172-1/21731773_117600145553528_2159642402270899662_o.jpg?stp=dst-jpg_p200x200&_nc_cat=107&ccb=1-7&_nc_sid=7206a8&_nc_ohc=EeajRAuRnU4AX8tkKxc&_nc_ht=scontent.fmxp11-1.fna&oh=00_AT_6CCtMm8CnuiLf093B94g7fo5fPOYtioOyxBTiiqbzfQ&oe=636F9DE9
+Result: False
+
+Gabriella Luzi - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.72265581 - .\Potential_target_image\Gabriella Luzi\Gabriella Luzi.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/307727271_480162220649937_2920658916275541188_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=zz5gwap8g6wAX8_kHuA&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8lLvmfobVYAayLohnbvvdaPHYJTTLgcG-24JlbVi0aXw&oe=634FB160&_nc_sid=5cbaad
+Result: False
+
+False - 0.74059267 - .\Potential_target_image\Gabriella Luzi\Gabriella Luzi.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/21984702_1963624557256885_6093689673895378944_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=Q56XyxHgYxAAX-CMeyr&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_-ArQRpybQkb5he0rJlyeQK65KGM2I_VQ31lshoGOVTQ&oe=634EB6AF&_nc_sid=5cbaad
+Result: False
+
+False - 0.76477978 - .\Potential_target_image\Gabriella Luzi\Gabriella Luzi.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/272901820_333256115364296_3154300373137629929_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=VYZQx_1JZQEAX_hmFJ5&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_Tx72wGqzWbjiRCpvLeqvqvvGvQVn0BzgrAn7PrmQcIA&oe=634F02CB&_nc_sid=5cbaad
+Result: False
+
+False - 0.70407136 - .\Potential_target_image\Gabriella Luzi\Gabriella Luzi.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/265962998_128309972975407_8441363169111206636_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=9pJhJVQSzukAX-uBEqM&tn=UljquCp5tZMBrq6n&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-sW0TAV7kLi4xoNJPIvlEvJSAxOm9DoNUsVNhESvWYnA&oe=634E8F1C&_nc_sid=5cbaad
+Result: False
+
+False - 0.82772487 - .\Potential_target_image\Gabriella Luzi\Gabriella Luzi.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/10598571_614052088734929_591921694_a.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=71BAbP7MkOAAX9BALaD&tn=UljquCp5tZMBrq6n&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8696-yqxbAY9NP4DSjK2rOZZ-14KrewojhPtAOrCpiVw&oe=634F832C&_nc_sid=5cbaad
+Result: False
+
+False - 0.70877178 - .\Potential_target_image\Gabriella Luzi\Gabriella Luzi.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/10518212_487173208084518_115155155_a.jpg?_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=fQqb7Yakbh8AX93jask&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9bO5ivtqj9AG0cmSr22a45uzLLUHpD4iOJq7ckobHhlw&oe=634EE887&_nc_sid=5cbaad
+Result: False
+
+False - 0.65146336 - .\Potential_target_image\Gabriella Luzi\Gabriella Luzi.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/309079027_505522760985783_3598834606503992423_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=rs_GKytbp6AAX9a0O2Q&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8PEphyt7hp_SnkrE1LxeOt0gxrdwdiaeG7X48w5h6kIg&oe=63506880&_nc_sid=5cbaad
+Result: False
+
+False - 0.75067057 - .\Potential_target_image\Gabriella Luzi\Gabriella Luzi.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/269915160_1518650008505837_5018217929365306764_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=KyHWnuzd_lcAX-p9hKF&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-y78IUsNw0oySCEvy4mEeBmVVlqQFbaqknQHQTztQWgA&oe=634F7C0A&_nc_sid=5cbaad
+Result: False
+
+False - 0.82281768 - .\Potential_target_image\Gabriella Luzi\Gabriella Luzi.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/306760665_3256883977886496_1161310536582075696_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=UeS259p7AuIAX_UGYuY&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9i7VLnyfe6qjhn9ELFUHEHlAFskazL5wFZIMRfbHo-Hg&oe=634F5838&_nc_sid=5cbaad
+Result: False
+
+False - 0.73433138 - .\Potential_target_image\Gabriella Luzi\Gabriella Luzi.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/171067295_309985263862993_7587699318153282478_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=fxaIGn1mKW4AX9CEzvF&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9q_PosVQJ1l7YdSvH_S-EjWoI99UwpMsbYRCw5g6VFcw&oe=634EE36C&_nc_sid=5cbaad
+Result: False
+
+False - 0.70392288 - .\Potential_target_image\Gabriella Luzi\Gabriella Luzi.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/277623345_988898311739607_9133308767226492411_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=oCQcXfBaU2kAX8uSGTl&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-HJRT7AiSg6lRC-ryEPaiSVCXyW7hJ4wawzkPTE3ezbg&oe=63503D24&_nc_sid=5cbaad
+Result: False
+
+False - 0.68290346 - .\Potential_target_image\Gabriella Luzi\Gabriella Luzi.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/308633248_1067664960559377_3018308192750798673_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=IqVKrOIAYugAX_Qsq6j&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8d4e-TO9GFcX7hs8bK-zQDb82l_pMxxURcNgyX5Z44CQ&oe=634F0AB6&_nc_sid=5cbaad
+Result: False
+
+False - 0.74012977 - .\Potential_target_image\Gabriella Luzi\Gabriella Luzi.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/311031531_1055413468477498_5157498478782452145_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=bqcKXso77FEAX_7IWg3&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_dWf4Ep82BTlIzU3dm0A7xUFfsP1PbtWDuQ2_NBpjBOQ&oe=634F99BB&_nc_sid=5cbaad
+Result: False
+
+False - 0.69172576 - .\Potential_target_image\Gabriella Luzi\Gabriella Luzi.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/299881817_3218478511698781_6982860918523982905_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=ySwp8H3IyqQAX-_k4Za&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT98eqBBQhYIIlxKE1i65GOx7QjVGywDe95iz05BlnqTmg&oe=63501C63&_nc_sid=5cbaad
+Result: False
+
+False - 0.80064056 - .\Potential_target_image\Gabriella Luzi\Gabriella Luzi.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/298438111_461580079151629_7922257356771287356_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=po7qR5u3ckwAX9Br0pQ&tn=UljquCp5tZMBrq6n&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-ESUm4mXyuqulBpZ1Lvo-yBv1JV9jdDtmAecFOHyBUhw&oe=635027B4&_nc_sid=5cbaad
+Result: False
+
+False - 0.66659065 - .\Potential_target_image\Gabriella Luzi\Gabriella Luzi.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/20902603_751306978381891_1358197860201398272_a.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=Eat6xexctdgAX8TM4r1&tn=UljquCp5tZMBrq6n&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8M9VlqLyKEMxix92dxKQCCvGz7_-ZgfZVjTNSrrX_k_Q&oe=634FCEA5&_nc_sid=5cbaad
+Result: False
+
+False - 0.74168577 - .\Potential_target_image\Gabriella Luzi\Gabriella Luzi.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/308578742_156912796960078_3563260629209063101_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=hhjUtrw5DBMAX9VMJHb&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-18J54F7C756Zfr3u8_d0Zuq4OvWO9NPP4SLRJK-VYbQ&oe=63503BEB&_nc_sid=5cbaad
+Result: False
+
+True - 0.59266903 - .\Potential_target_image\Gabriella Luzi\Gabriella Luzi.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/310878854_5318505118260941_3532140893037555995_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=azO66wu_VBgAX8QjlNd&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9fmHzepmijrOAkf3fsRejHbvAxauYPZ80a28g58QGyjw&oe=634F949A&_nc_sid=5cbaad
+Result: True
+
+Gabriella Luzi - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.99700925 - .\Potential_target_image\Gabriella Luzi\Gabriella Luzi.jpg - https://media-exp1.licdn.com/dms/image/C5603AQHV_BZWfC6A2Q/profile-displayphoto-shrink_100_100/0/1517568789266?e=1671062400&v=beta&t=5kOCFEHRrdtq8BUdC0VXX4SiS0DkLyJ6JOwFt9cnYVU
+False - 0.88128532 - .\Potential_target_image\Gabriella Luzi\Gabriella Luzi_IG.jpg - https://media-exp1.licdn.com/dms/image/C5603AQHV_BZWfC6A2Q/profile-displayphoto-shrink_100_100/0/1517568789266?e=1671062400&v=beta&t=5kOCFEHRrdtq8BUdC0VXX4SiS0DkLyJ6JOwFt9cnYVU
+Result: False
+

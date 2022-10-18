@@ -1,0 +1,15 @@
+Martino Travaglia - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.83519319 - .\Potential_target_image\Martino Travaglia\Martino Travaglia.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/300567246_387268720206772_3003759876445802854_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=oAlK0MG_eqYAX-kWtH_&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_P7qru6zQ8AN09kUmlkz5EjRDbVNCs1AJ1xWlRl7ihWg&oe=634F40C9&_nc_sid=5cbaad
+Result: False
+
+Martino Travaglia - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.94874482 - .\Potential_target_image\Martino Travaglia\Martino Travaglia.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQF2-jmHCSu_Cw/profile-displayphoto-shrink_100_100/0/1529428605021?e=1671062400&v=beta&t=iS3wCBafuy4gdTzYkIYe5iJAfV2cq-L9S7MNV-vm624
+Result: False
+
+False - 0.80576636 - .\Potential_target_image\Martino Travaglia\Martino Travaglia.jpg - https://media-exp1.licdn.com/dms/image/C4D03AQHalB0PRWjN_w/profile-displayphoto-shrink_100_100/0/1621444196795?e=1671062400&v=beta&t=B6bkAn64lyMENEi226Ef4pxu-CwXs5-fGU7x83hNaQY
+Result: False
+

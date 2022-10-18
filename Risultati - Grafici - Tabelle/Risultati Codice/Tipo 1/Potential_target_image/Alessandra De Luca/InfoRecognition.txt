@@ -1,0 +1,64 @@
+Alessandra De Luca - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+True - 0.59602437 - .\Potential_target_image\Alessandra De Luca\Alessandra De Luca.jpg - https://scontent.fmxp6-1.fna.fbcdn.net/v/t1.6435-9/118504192_2672559919514076_4352633289174068186_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=NBnMLjUdnbEAX_lakNO&_nc_ht=scontent.fmxp6-1.fna&oh=00_AT-ktj4KCe1qOgipQXbe0jwJytpePrlkSc-YvP3vedJobA&oe=634D9FA6
+Result: True
+
+Alessandra De Luca - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.69135817 - .\Potential_target_image\Alessandra De Luca\Alessandra De Luca.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/302214999_1939699969567585_7441837223180454505_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=eobzSCC8XWcAX_FLlMZ&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9aHZqcDdgJFid_v-FtX-HvJ8HQLT7n5bSWrU9cUpxO4w&oe=633024A2&_nc_sid=5cbaad
+False - 0.82037111 - .\Potential_target_image\Alessandra De Luca\Alessandra De Luca_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/302214999_1939699969567585_7441837223180454505_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=eobzSCC8XWcAX_FLlMZ&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9aHZqcDdgJFid_v-FtX-HvJ8HQLT7n5bSWrU9cUpxO4w&oe=633024A2&_nc_sid=5cbaad
+Result: False
+
+False - 0.70432517 - .\Potential_target_image\Alessandra De Luca\Alessandra De Luca.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/122150416_380683746313705_2743326195777383481_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=FFX-DheOmy8AX9CPvES&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9RxESzSj4hJfrCHmEoEhJVYkkIRj1C5ertfSFZJLKpFA&oe=632EE895&_nc_sid=5cbaad
+False - 0.77366692 - .\Potential_target_image\Alessandra De Luca\Alessandra De Luca_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/122150416_380683746313705_2743326195777383481_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=FFX-DheOmy8AX9CPvES&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9RxESzSj4hJfrCHmEoEhJVYkkIRj1C5ertfSFZJLKpFA&oe=632EE895&_nc_sid=5cbaad
+Result: False
+
+False - 0.73534039 - .\Potential_target_image\Alessandra De Luca\Alessandra De Luca.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/273521306_1688035988207600_8517503624531476676_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=hzaN3SrcApgAX9DxwH6&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_VcbGEPnNQAypoi13vHkUMznU2HKv0t89WlzZvp9xJtg&oe=632E8965&_nc_sid=5cbaad
+False - 0.84125231 - .\Potential_target_image\Alessandra De Luca\Alessandra De Luca_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/273521306_1688035988207600_8517503624531476676_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=hzaN3SrcApgAX9DxwH6&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_VcbGEPnNQAypoi13vHkUMznU2HKv0t89WlzZvp9xJtg&oe=632E8965&_nc_sid=5cbaad
+Result: False
+
+False - 0.635664 - .\Potential_target_image\Alessandra De Luca\Alessandra De Luca.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/298684910_139300231847489_103506838734256814_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=wfPZbwspQ20AX-rLWc-&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-5rZzyD18Tzwc7kdmv3Gc6PmduM2rA9D_KrDkpJCThGQ&oe=632FC9E9&_nc_sid=5cbaad
+False - 0.6455866 - .\Potential_target_image\Alessandra De Luca\Alessandra De Luca_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/298684910_139300231847489_103506838734256814_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=wfPZbwspQ20AX-rLWc-&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-5rZzyD18Tzwc7kdmv3Gc6PmduM2rA9D_KrDkpJCThGQ&oe=632FC9E9&_nc_sid=5cbaad
+Result: False
+
+False - 0.7079 - .\Potential_target_image\Alessandra De Luca\Alessandra De Luca.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/220078402_521520702400542_357648469543809333_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=MxUkAjSGrskAX_mojxj&tn=35vA6NBbXm000gT2&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8k3ksWWX9k3ykcN4EIy2ljYGn6Lu0ntTQNJldAr06qqw&oe=632E8FE6&_nc_sid=5cbaad
+False - 0.78783081 - .\Potential_target_image\Alessandra De Luca\Alessandra De Luca_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/220078402_521520702400542_357648469543809333_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=MxUkAjSGrskAX_mojxj&tn=35vA6NBbXm000gT2&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8k3ksWWX9k3ykcN4EIy2ljYGn6Lu0ntTQNJldAr06qqw&oe=632E8FE6&_nc_sid=5cbaad
+Result: False
+
+Alessandra De Luca - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.82715573 - .\Potential_target_image\Alessandra De Luca\Alessandra De Luca.jpg - https://media-exp1.licdn.com/dms/image/C5603AQF7FtH4R8kl9Q/profile-displayphoto-shrink_100_100/0/1517397552382?e=1669248000&v=beta&t=4XqS3qiLhuGVnfl3etJ09lzmrEup16aow8dF_tkaFz0
+False - 0.77076839 - .\Potential_target_image\Alessandra De Luca\Alessandra De Luca_FB.jpg - https://media-exp1.licdn.com/dms/image/C5603AQF7FtH4R8kl9Q/profile-displayphoto-shrink_100_100/0/1517397552382?e=1669248000&v=beta&t=4XqS3qiLhuGVnfl3etJ09lzmrEup16aow8dF_tkaFz0
+Result: False
+
+False - 0.70130043 - .\Potential_target_image\Alessandra De Luca\Alessandra De Luca.jpg - https://media-exp1.licdn.com/dms/image/C5603AQFYM928hFQMJg/profile-displayphoto-shrink_100_100/0/1516570515022?e=1669248000&v=beta&t=gDBqwu_u7CUVTK7j4powaHK7KdpyeSfsHRa7i2MqqSU
+False - 0.72390996 - .\Potential_target_image\Alessandra De Luca\Alessandra De Luca_FB.jpg - https://media-exp1.licdn.com/dms/image/C5603AQFYM928hFQMJg/profile-displayphoto-shrink_100_100/0/1516570515022?e=1669248000&v=beta&t=gDBqwu_u7CUVTK7j4powaHK7KdpyeSfsHRa7i2MqqSU
+Result: False
+
+False - 0.93499995 - .\Potential_target_image\Alessandra De Luca\Alessandra De Luca.jpg - https://media-exp1.licdn.com/dms/image/D4D35AQE-0onsQDWsYg/profile-framedphoto-shrink_100_100/0/1638270469976?e=1664208000&v=beta&t=98GqmoeSNcjLl4M3jvksK9dEgVFWCnaFdtN3tU2SB9c
+False - 0.89655761 - .\Potential_target_image\Alessandra De Luca\Alessandra De Luca_FB.jpg - https://media-exp1.licdn.com/dms/image/D4D35AQE-0onsQDWsYg/profile-framedphoto-shrink_100_100/0/1638270469976?e=1664208000&v=beta&t=98GqmoeSNcjLl4M3jvksK9dEgVFWCnaFdtN3tU2SB9c
+Result: False
+
+False - 0.80513911 - .\Potential_target_image\Alessandra De Luca\Alessandra De Luca.jpg - https://media-exp1.licdn.com/dms/image/C4D03AQFF6CPW5BMqWQ/profile-displayphoto-shrink_100_100/0/1592040100840?e=1669248000&v=beta&t=VyG-5W2BpBSh3AcRge4Trj8kziVcHBHR3VHZ8upqlww
+False - 0.84609943 - .\Potential_target_image\Alessandra De Luca\Alessandra De Luca_FB.jpg - https://media-exp1.licdn.com/dms/image/C4D03AQFF6CPW5BMqWQ/profile-displayphoto-shrink_100_100/0/1592040100840?e=1669248000&v=beta&t=VyG-5W2BpBSh3AcRge4Trj8kziVcHBHR3VHZ8upqlww
+Result: False
+
+False - 0.84378859 - .\Potential_target_image\Alessandra De Luca\Alessandra De Luca.jpg - https://media-exp1.licdn.com/dms/image/C4D03AQGMFRGB7T6-JQ/profile-displayphoto-shrink_100_100/0/1547539896640?e=1669248000&v=beta&t=UFXyQQ_SQyYedukEyWkUerYDKxN12pDQIpKilBFVBuM
+False - 0.84549664 - .\Potential_target_image\Alessandra De Luca\Alessandra De Luca_FB.jpg - https://media-exp1.licdn.com/dms/image/C4D03AQGMFRGB7T6-JQ/profile-displayphoto-shrink_100_100/0/1547539896640?e=1669248000&v=beta&t=UFXyQQ_SQyYedukEyWkUerYDKxN12pDQIpKilBFVBuM
+Result: False
+
+False - 0.84074158 - .\Potential_target_image\Alessandra De Luca\Alessandra De Luca.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQFVxhbGEwn94A/profile-displayphoto-shrink_100_100/0/1653039803115?e=1669248000&v=beta&t=7Sdc5kiP59dc1_Xt-QtHk-J4_rFQEueM24SmnYOSMn8
+False - 0.82229139 - .\Potential_target_image\Alessandra De Luca\Alessandra De Luca_FB.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQFVxhbGEwn94A/profile-displayphoto-shrink_100_100/0/1653039803115?e=1669248000&v=beta&t=7Sdc5kiP59dc1_Xt-QtHk-J4_rFQEueM24SmnYOSMn8
+Result: False
+
+False - 1.03304584 - .\Potential_target_image\Alessandra De Luca\Alessandra De Luca.jpg - https://media-exp1.licdn.com/dms/image/C4D03AQGGX7lqf7oJ6A/profile-displayphoto-shrink_100_100/0/1541801506616?e=1669248000&v=beta&t=vltTFhVTOjneQGO5imBF5K_1l2PSfDFp3aYJ4jOrs1Q
+False - 0.9319429 - .\Potential_target_image\Alessandra De Luca\Alessandra De Luca_FB.jpg - https://media-exp1.licdn.com/dms/image/C4D03AQGGX7lqf7oJ6A/profile-displayphoto-shrink_100_100/0/1541801506616?e=1669248000&v=beta&t=vltTFhVTOjneQGO5imBF5K_1l2PSfDFp3aYJ4jOrs1Q
+Result: False
+
+False - 0.77764991 - .\Potential_target_image\Alessandra De Luca\Alessandra De Luca.jpg - https://media-exp1.licdn.com/dms/image/C5603AQGoGfONpjP2Og/profile-displayphoto-shrink_100_100/0/1547200370820?e=1669248000&v=beta&t=8ppY0hdp4hv37Qse3oQjsUAgeDhl9cktMmU8p50dEgY
+False - 0.7766577 - .\Potential_target_image\Alessandra De Luca\Alessandra De Luca_FB.jpg - https://media-exp1.licdn.com/dms/image/C5603AQGoGfONpjP2Og/profile-displayphoto-shrink_100_100/0/1547200370820?e=1669248000&v=beta&t=8ppY0hdp4hv37Qse3oQjsUAgeDhl9cktMmU8p50dEgY
+Result: False
+

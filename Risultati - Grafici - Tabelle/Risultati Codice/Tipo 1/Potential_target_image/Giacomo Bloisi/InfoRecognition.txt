@@ -1,0 +1,24 @@
+Giacomo Bloisi - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.69992372 - .\Potential_target_image\Giacomo Bloisi\Giacomo Bloisi.jpg - https://scontent.fmxp6-1.fna.fbcdn.net/v/t39.30808-6/306476133_5609026592495288_8153384523216563418_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=e8aqpDREADYAX-hvG85&_nc_oc=AQl_W7_UcwTPq4ROe8UAVcD7sN28v_FqkWbZobOJVY1OycSyTigw1GgswE0IcPuOcaeMuuyV5ccHqSnAiw1eh6ev&_nc_ht=scontent.fmxp6-1.fna&oh=00_AT_LFTdjoOp9rKTBXqq4BakMY8tJl7t99-1kIuJDtd8f-w&oe=632959D8
+Result: False
+
+True - 0.43361181 - .\Potential_target_image\Giacomo Bloisi\Giacomo Bloisi.jpg - https://scontent.fmxp6-1.fna.fbcdn.net/v/t1.18169-9/11998829_10206766119505318_3679198368006271752_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=82Ftzi4duIQAX8BuEBD&_nc_ht=scontent.fmxp6-1.fna&oh=00_AT-dwj8H65tGFr6xzN3KfsUR2L33J2_3T1nKy5NP1L1gWg&oe=6349D37F
+Result: True
+
+Giacomo Bloisi - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+True - 0.51081596 - .\Potential_target_image\Giacomo Bloisi\Giacomo Bloisi.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/246524097_167956185535150_3008777755192268810_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=KzssmMKHH68AX94ax9_&tn=o61szvshebbUQCXc&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_XxxHCnHjUf46vqdLzu1eYCFvpnvpDcXxZ1JGMSKHDkA&oe=632B1D22&_nc_sid=5cbaad
+True - 0.50785753 - .\Potential_target_image\Giacomo Bloisi\Giacomo Bloisi_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/246524097_167956185535150_3008777755192268810_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=KzssmMKHH68AX94ax9_&tn=o61szvshebbUQCXc&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_XxxHCnHjUf46vqdLzu1eYCFvpnvpDcXxZ1JGMSKHDkA&oe=632B1D22&_nc_sid=5cbaad
+Result: True
+
+Giacomo Bloisi - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.65486106 - .\Potential_target_image\Giacomo Bloisi\Giacomo Bloisi.jpg - https://media-exp1.licdn.com/dms/image/D5635AQENC3ZYjn18Ow/profile-framedphoto-shrink_100_100/0/1639577980207?e=1663988400&v=beta&t=VDtEjcjAm20-TYv0QORLO5DDylkTu5b28bHgyqdYRNk
+False - 0.71053664 - .\Potential_target_image\Giacomo Bloisi\Giacomo Bloisi_FB.jpg - https://media-exp1.licdn.com/dms/image/D5635AQENC3ZYjn18Ow/profile-framedphoto-shrink_100_100/0/1639577980207?e=1663988400&v=beta&t=VDtEjcjAm20-TYv0QORLO5DDylkTu5b28bHgyqdYRNk
+False - 0.70243596 - .\Potential_target_image\Giacomo Bloisi\Giacomo Bloisi_IG.jpg - https://media-exp1.licdn.com/dms/image/D5635AQENC3ZYjn18Ow/profile-framedphoto-shrink_100_100/0/1639577980207?e=1663988400&v=beta&t=VDtEjcjAm20-TYv0QORLO5DDylkTu5b28bHgyqdYRNk
+Result: False
+

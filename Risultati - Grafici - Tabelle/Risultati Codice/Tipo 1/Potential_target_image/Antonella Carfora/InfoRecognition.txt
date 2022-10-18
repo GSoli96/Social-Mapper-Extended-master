@@ -1,0 +1,30 @@
+Antonella Carfora - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.68730771 - .\Potential_target_image\Antonella Carfora\Antonella Carfora.jpg - https://scontent.fmxp6-1.fna.fbcdn.net/v/t1.6435-9/203532813_4254936361216939_4527132379273506894_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=KDYqjLAnsRYAX_ReH49&_nc_ht=scontent.fmxp6-1.fna&oh=00_AT9MHf6GAlHmcHrEpTANWkuMpooE4plSbnuHNnAP0b5m4A&oe=634A2BDC
+Result: False
+
+False - 0.76875645 - .\Potential_target_image\Antonella Carfora\Antonella Carfora.jpg - https://scontent.fmxp6-1.fna.fbcdn.net/v/t1.6435-9/67525670_111132476903084_2363344782991818752_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=sI4VG9RFhe4AX_RgtzE&_nc_ht=scontent.fmxp6-1.fna&oh=00_AT8Pwnk9KzgxtOFzOkfJWd7IswlTc4DbEX4hULQ4KZrN_Q&oe=634B3828
+Result: False
+
+False - 0.86366808 - .\Potential_target_image\Antonella Carfora\Antonella Carfora.jpg - https://scontent.fmxp6-1.fna.fbcdn.net/v/t1.6435-9/140390764_1575795532612215_3228373548755955558_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=BBQDQuzxOaEAX9flyPG&_nc_ht=scontent.fmxp6-1.fna&oh=00_AT-CISmaQdcafj9AIGsKKiP6IvyMbXDVzhUa6udZ2gk3iQ&oe=634C51ED
+Result: False
+
+True - 0.51815039 - .\Potential_target_image\Antonella Carfora\Antonella Carfora.jpg - https://scontent.fmxp6-1.fna.fbcdn.net/v/t1.6435-9/62406595_10217088506116591_6013259582279778304_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ezO5tNVBONIAX8mFaF5&_nc_ht=scontent.fmxp6-1.fna&oh=00_AT8pe58qI_SDeyhLam8FUVl9uhbP6igVBr0YiZ48SPEScQ&oe=634AB26E
+Result: True
+
+Antonella Carfora - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+True - 0.53177645 - .\Potential_target_image\Antonella Carfora\Antonella Carfora.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/272130814_272974921568151_6799990353558455823_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=cfZ8X2S0--wAX9GjVx5&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8yjTtBvRhJYq0ZEHKNr2ca6ALjoos9b8h9G3q9wY_tkw&oe=632C7B43&_nc_sid=5cbaad
+True - 0.48962686 - .\Potential_target_image\Antonella Carfora\Antonella Carfora_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/272130814_272974921568151_6799990353558455823_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=cfZ8X2S0--wAX9GjVx5&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8yjTtBvRhJYq0ZEHKNr2ca6ALjoos9b8h9G3q9wY_tkw&oe=632C7B43&_nc_sid=5cbaad
+Result: True
+
+Antonella Carfora - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.74783376 - .\Potential_target_image\Antonella Carfora\Antonella Carfora.jpg - https://media-exp1.licdn.com/dms/image/D4D35AQF7fpTURiAQYA/profile-framedphoto-shrink_100_100/0/1645628820826?e=1663988400&v=beta&t=wwjqD-luWL7Zo7Japo789dNPzT6EPJEOusXr5BEHd78
+False - 0.70090853 - .\Potential_target_image\Antonella Carfora\Antonella Carfora_FB.jpg - https://media-exp1.licdn.com/dms/image/D4D35AQF7fpTURiAQYA/profile-framedphoto-shrink_100_100/0/1645628820826?e=1663988400&v=beta&t=wwjqD-luWL7Zo7Japo789dNPzT6EPJEOusXr5BEHd78
+False - 0.67110733 - .\Potential_target_image\Antonella Carfora\Antonella Carfora_IG.jpg - https://media-exp1.licdn.com/dms/image/D4D35AQF7fpTURiAQYA/profile-framedphoto-shrink_100_100/0/1645628820826?e=1663988400&v=beta&t=wwjqD-luWL7Zo7Japo789dNPzT6EPJEOusXr5BEHd78
+Result: False
+

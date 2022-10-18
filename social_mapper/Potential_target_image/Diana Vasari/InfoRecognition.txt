@@ -1,0 +1,24 @@
+Diana Vasari - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.82998811 - .\Potential_target_image\Diana Vasari\Diana Vasari.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/306580692_605022311171237_7504624083429847463_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=zbXAOfE-QpgAX-Am_Re&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_Y-BxdzDa1va-nrItWk6w0I1MXBJqNUn3soST8YCApfQ&oe=634F98D0&_nc_sid=5cbaad
+Result: False
+
+False - 0.883356 - .\Potential_target_image\Diana Vasari\Diana Vasari.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/14487164_135450780264209_2366489300347912192_a.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=uzFKaIMLfVwAX_3cRb6&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9_H-MHCcrM2ntgz_Fs3m5d9WLcfi-7yzJC0zx9RYIYtg&oe=63504B67&_nc_sid=5cbaad
+Result: False
+
+False - 0.89322247 - .\Potential_target_image\Diana Vasari\Diana Vasari.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/102706407_1369519309913549_4955597411828531587_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=U_jsm2Odnj0AX890iiq&tn=UljquCp5tZMBrq6n&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9fnQzx_UsiaWV_UXPBTqyQ0UUdKYSpSzKOIYLceCco0Q&oe=635012F5&_nc_sid=5cbaad
+Result: False
+
+False - 0.83053766 - .\Potential_target_image\Diana Vasari\Diana Vasari.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/25015768_151206342197196_8126452146964004864_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=0Fr7QPqETgsAX8uoNvq&tn=UljquCp5tZMBrq6n&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9owbeHBLVqq1I4lVKXD5eBFqrSqUoTioM6lddfsXVEgQ&oe=634F15C6&_nc_sid=5cbaad
+Result: False
+
+Diana Vasari - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.8426872 - .\Potential_target_image\Diana Vasari\Diana Vasari.jpg - https://media-exp1.licdn.com/dms/image/D4D35AQEqF4vHWoXfIA/profile-framedphoto-shrink_100_100/0/1625599267380?e=1666306800&v=beta&t=o-7PoVJrIsCyEF9lnQopDkaWxjC8LRrqpRLj1I8DiTs
+Result: False
+
+False - 0.75304639 - .\Potential_target_image\Diana Vasari\Diana Vasari.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQFyNrhdsaNpZw/profile-displayphoto-shrink_100_100/0/1588883975926?e=1671062400&v=beta&t=PpFfKPTf6MwZALA5GBnmXJsDOpZErfFzIEWr7fWzC8g
+Result: False
+

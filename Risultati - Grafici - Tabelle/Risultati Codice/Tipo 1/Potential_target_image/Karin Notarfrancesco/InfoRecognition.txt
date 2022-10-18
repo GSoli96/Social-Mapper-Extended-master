@@ -1,0 +1,16 @@
+Karin Notarfrancesco - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+True - 0. - .\Potential_target_image\Karin Notarfrancesco\Karin Notarfrancesco.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t39.30808-6/215279374_4056744037755094_1858520191799748538_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Fk4CCZHD6bYAX_qi5Ae&_nc_ht=scontent.fnap2-1.fna&oh=00_AT_yRuXHi5eNeNf65KM3DN53gfnHQ2oZQbM7HD5omhBVWA&oe=63296403
+Result: True
+
+Karin Notarfrancesco - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+True - 0.52322499 - .\Potential_target_image\Karin Notarfrancesco\Karin Notarfrancesco.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/279134963_719031759275116_4498104509501972807_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=9MkTKR8yvwYAX-KVnmO&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-mkuv65amDbxKb-zkRtqWDb3E_LID-KyR1_kbxpzocxg&oe=632C2F57&_nc_sid=5cbaad
+True - 0.52322499 - .\Potential_target_image\Karin Notarfrancesco\Karin Notarfrancesco_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/279134963_719031759275116_4498104509501972807_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=9MkTKR8yvwYAX-KVnmO&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-mkuv65amDbxKb-zkRtqWDb3E_LID-KyR1_kbxpzocxg&oe=632C2F57&_nc_sid=5cbaad
+Result: True
+
+Karin Notarfrancesco - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+

@@ -1,0 +1,28 @@
+Vincenzo Pandolfo - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.71474104 - .\Potential_target_image\Vincenzo Pandolfo\Vincenzo Pandolfo.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t1.18169-9/10447801_10203828954318127_1382605258546738540_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=m9HwmuFunhoAX9okFKN&_nc_ht=scontent.fnap2-1.fna&oh=00_AT-9icXEuMjNTuAzhK6O89t8xsJIDaX8AkoOmY1DUmSj1A&oe=634A7246
+Result: False
+
+True - 0.28029745 - .\Potential_target_image\Vincenzo Pandolfo\Vincenzo Pandolfo.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t1.18169-9/27459091_10209300737914887_231697403154951293_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=xdItI_nJHzwAX_obslR&_nc_ht=scontent.fnap2-1.fna&oh=00_AT-UOJQaO5B9XDbDkRiZ8ni1WIBiyNLQjmJ0orTnwxydXQ&oe=634BD1D0
+Result: True
+
+Vincenzo Pandolfo - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.68070009 - .\Potential_target_image\Vincenzo Pandolfo\Vincenzo Pandolfo.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/53026512_313413065983562_6852511842779004928_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=02U5laL-6zIAX9leo9x&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_3wQnbsNd_1W3PVcqXgTp6SnO-d2d5pxHucQGSZ_LmRw&oe=632CE9D2&_nc_sid=5cbaad
+False - 0.68931019 - .\Potential_target_image\Vincenzo Pandolfo\Vincenzo Pandolfo_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/53026512_313413065983562_6852511842779004928_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=02U5laL-6zIAX9leo9x&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_3wQnbsNd_1W3PVcqXgTp6SnO-d2d5pxHucQGSZ_LmRw&oe=632CE9D2&_nc_sid=5cbaad
+Result: False
+
+True - 0.58660515 - .\Potential_target_image\Vincenzo Pandolfo\Vincenzo Pandolfo.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/243198558_845821202764361_42367300221817948_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=_DWnY3KLdSkAX9RcL7N&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9gXzKwdF8Is19US2UvHC2fFSlCUTJvMYCC0BPW1-omcw&oe=632CC1C5&_nc_sid=5cbaad
+False - 0.62514953 - .\Potential_target_image\Vincenzo Pandolfo\Vincenzo Pandolfo_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/243198558_845821202764361_42367300221817948_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=_DWnY3KLdSkAX9RcL7N&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9gXzKwdF8Is19US2UvHC2fFSlCUTJvMYCC0BPW1-omcw&oe=632CC1C5&_nc_sid=5cbaad
+Result: True
+
+Vincenzo Pandolfo - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.66666909 - .\Potential_target_image\Vincenzo Pandolfo\Vincenzo Pandolfo.jpg - https://media-exp1.licdn.com/dms/image/C4D03AQGOUoISAFY2LA/profile-displayphoto-shrink_100_100/0/1612341488297?e=1668643200&v=beta&t=kdM2R_bK7R-zJW_7NsVDuiJAE1dd2HNe6HOOnpObaHw
+False - 0.69069012 - .\Potential_target_image\Vincenzo Pandolfo\Vincenzo Pandolfo_FB.jpg - https://media-exp1.licdn.com/dms/image/C4D03AQGOUoISAFY2LA/profile-displayphoto-shrink_100_100/0/1612341488297?e=1668643200&v=beta&t=kdM2R_bK7R-zJW_7NsVDuiJAE1dd2HNe6HOOnpObaHw
+True - 0.56614086 - .\Potential_target_image\Vincenzo Pandolfo\Vincenzo Pandolfo_IG.jpg - https://media-exp1.licdn.com/dms/image/C4D03AQGOUoISAFY2LA/profile-displayphoto-shrink_100_100/0/1612341488297?e=1668643200&v=beta&t=kdM2R_bK7R-zJW_7NsVDuiJAE1dd2HNe6HOOnpObaHw
+Result: True
+

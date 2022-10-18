@@ -1,0 +1,19 @@
+Valeria Solimando - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.70552783 - .\Potential_target_image\Valeria Solimando\Valeria Solimando.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t39.30808-6/283357578_7564463190292283_8391425568346323726_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=2GY8vRoIHdMAX82-z1O&_nc_ht=scontent.fnap2-1.fna&oh=00_AT-7v0t8ZuHFWE5gDY9miHsYTa2WkTuaLP7PYXgSgp7LsA&oe=6329C521
+Result: False
+
+True - 0.45949861 - .\Potential_target_image\Valeria Solimando\Valeria Solimando.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t1.6435-9/67329893_10218550087918920_7416816836907368448_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=gmCzVRebKPEAX-6qTyi&_nc_ht=scontent.fnap2-1.fna&oh=00_AT8mN7-CnV8vYy8zbUeuJ6nxUCsKkvZzbPjU0pun5Dcc7w&oe=63493737
+Result: True
+
+Valeria Solimando - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+Valeria Solimando - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+
+True - 0.45773285 - .\Potential_target_image\Valeria Solimando\Valeria Solimando.jpg - https://media-exp1.licdn.com/dms/image/C4D03AQHeIhtHUfKsFQ/profile-displayphoto-shrink_100_100/0/1587069832162?e=1668643200&v=beta&t=x6vLtxJ6uFD0o-Qy3qqFeKz-Pwxs6UaMXMxAPEIR57U
+True - 0.27493517 - .\Potential_target_image\Valeria Solimando\Valeria Solimando_FB.jpg - https://media-exp1.licdn.com/dms/image/C4D03AQHeIhtHUfKsFQ/profile-displayphoto-shrink_100_100/0/1587069832162?e=1668643200&v=beta&t=x6vLtxJ6uFD0o-Qy3qqFeKz-Pwxs6UaMXMxAPEIR57U
+Result: True
+

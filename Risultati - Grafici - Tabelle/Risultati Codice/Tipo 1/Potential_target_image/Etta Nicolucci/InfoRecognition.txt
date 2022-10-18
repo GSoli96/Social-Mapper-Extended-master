@@ -1,0 +1,30 @@
+Etta Nicolucci - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.84361759 - .\Potential_target_image\Etta Nicolucci\Etta Nicolucci.jpg - https://scontent.fmxp11-1.fna.fbcdn.net/v/t1.6435-1/130054515_10223545064872251_3173251385684549709_n.jpg?stp=dst-jpg_p200x200&_nc_cat=106&ccb=1-7&_nc_sid=7206a8&_nc_ohc=-oIi3u9BzUwAX_xEvzP&_nc_ht=scontent.fmxp11-1.fna&oh=00_AT8_Z1DMB7-1ibTVaozmHC0Li6EMd4LYosFroc7ja_8tPA&oe=636EFB18
+Result: False
+
+False - 0.83663883 - .\Potential_target_image\Etta Nicolucci\Etta Nicolucci.jpg - https://scontent.fmxp11-1.fna.fbcdn.net/v/t39.30808-1/253715438_109440151542422_6225568300614313682_n.jpg?stp=dst-jpg_p200x200&_nc_cat=101&ccb=1-7&_nc_sid=7206a8&_nc_ohc=Z7o00aDqyK8AX9WKyhj&_nc_ht=scontent.fmxp11-1.fna&oh=00_AT935eTvXvQsum8EPfmQp12QPjkXiUkChk1HxhBl1tVRbw&oe=634D7B76
+Result: False
+
+False - 0.83663883 - .\Potential_target_image\Etta Nicolucci\Etta Nicolucci.jpg - https://scontent.fmxp11-1.fna.fbcdn.net/v/t39.30808-1/253715438_109440151542422_6225568300614313682_n.jpg?stp=dst-jpg_p200x200&_nc_cat=101&ccb=1-7&_nc_sid=7206a8&_nc_ohc=Z7o00aDqyK8AX9WKyhj&_nc_ht=scontent.fmxp11-1.fna&oh=00_AT935eTvXvQsum8EPfmQp12QPjkXiUkChk1HxhBl1tVRbw&oe=634D7B76
+Result: False
+
+False - 0.83663883 - .\Potential_target_image\Etta Nicolucci\Etta Nicolucci.jpg - https://scontent.fmxp11-1.fna.fbcdn.net/v/t39.30808-1/253715438_109440151542422_6225568300614313682_n.jpg?stp=dst-jpg_p200x200&_nc_cat=101&ccb=1-7&_nc_sid=7206a8&_nc_ohc=Z7o00aDqyK8AX9WKyhj&_nc_ht=scontent.fmxp11-1.fna&oh=00_AT935eTvXvQsum8EPfmQp12QPjkXiUkChk1HxhBl1tVRbw&oe=634D7B76
+Result: False
+
+False - 0.83663883 - .\Potential_target_image\Etta Nicolucci\Etta Nicolucci.jpg - https://scontent.fmxp11-1.fna.fbcdn.net/v/t39.30808-1/253715438_109440151542422_6225568300614313682_n.jpg?stp=dst-jpg_p200x200&_nc_cat=101&ccb=1-7&_nc_sid=7206a8&_nc_ohc=Z7o00aDqyK8AX9WKyhj&_nc_ht=scontent.fmxp11-1.fna&oh=00_AT935eTvXvQsum8EPfmQp12QPjkXiUkChk1HxhBl1tVRbw&oe=634D7B76
+Result: False
+
+False - 0.83663883 - .\Potential_target_image\Etta Nicolucci\Etta Nicolucci.jpg - https://scontent.fmxp11-1.fna.fbcdn.net/v/t39.30808-1/253715438_109440151542422_6225568300614313682_n.jpg?stp=dst-jpg_p200x200&_nc_cat=101&ccb=1-7&_nc_sid=7206a8&_nc_ohc=Z7o00aDqyK8AX9WKyhj&_nc_ht=scontent.fmxp11-1.fna&oh=00_AT935eTvXvQsum8EPfmQp12QPjkXiUkChk1HxhBl1tVRbw&oe=634D7B76
+Result: False
+
+Etta Nicolucci - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.85104058 - .\Potential_target_image\Etta Nicolucci\Etta Nicolucci.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/176495155_792828238029712_422221448884642924_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=uC_VeUsFzMMAX8wm_qa&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8V4488u1DrECk_lBsW3xfKWwhmDJ8aDk7mBTUEiDx1dw&oe=634F389F&_nc_sid=5cbaad
+Result: False
+
+Etta Nicolucci - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+

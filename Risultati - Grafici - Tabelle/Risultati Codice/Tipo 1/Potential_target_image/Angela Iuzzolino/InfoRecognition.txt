@@ -1,0 +1,24 @@
+Angela Iuzzolino - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.76534974 - .\Potential_target_image\Angela Iuzzolino\Angela Iuzzolino.jpg - https://scontent.fmxp6-1.fna.fbcdn.net/v/t39.30808-6/222664164_10225957173786343_6677390066985784597_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ihwVSKcE3DEAX8ySZCC&_nc_ht=scontent.fmxp6-1.fna&oh=00_AT9Tg2x3SvkQ_cXoVPiivFINa7cqv-23RmuN6ikgNCN92g&oe=632C8F65
+Result: False
+
+False - 0.78763541 - .\Potential_target_image\Angela Iuzzolino\Angela Iuzzolino.jpg - https://scontent.fmxp6-1.fna.fbcdn.net/v/t1.6435-1/105595299_140038567691771_1522784893534341373_n.jpg?stp=dst-jpg_s200x200&_nc_cat=102&ccb=1-7&_nc_sid=7206a8&_nc_ohc=StPP-RjHwSwAX8q01cc&_nc_ht=scontent.fmxp6-1.fna&oh=00_AT-ezvUb10lSkPvtU2zCnBUwSOjppao16BDEDqyquoRoeQ&oe=634DDAA1
+Result: False
+
+False - 0.72731779 - .\Potential_target_image\Angela Iuzzolino\Angela Iuzzolino.jpg - https://scontent.fmxp6-1.fna.fbcdn.net/v/t1.6435-9/80270816_661028457775008_3326803859854065664_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ukRWeH7VRJ4AX_LIkhj&_nc_ht=scontent.fmxp6-1.fna&oh=00_AT9H4q6kIw8dg7xzQfGQSEl06sP9aCg1r7eUOaFSVPOFrA&oe=634C8F56
+Result: False
+
+False - 0.72999213 - .\Potential_target_image\Angela Iuzzolino\Angela Iuzzolino.jpg - https://scontent.fmxp6-1.fna.fbcdn.net/v/t1.6435-9/42822512_2129958130665500_5722748067392782336_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=nlFe8DwiUC0AX_samF-&_nc_oc=AQk5jJfrcGDZ1FvDN_n49n-WRH5J9ZMo_e3zktbmqe7_yLB30mearbPwAxLTW68pTMmQRjHMrFe2BqpNmMTTOpms&_nc_ht=scontent.fmxp6-1.fna&oh=00_AT-hu3A2YfqcFkreia2liCT4AnFpBbC__cc1P3yd1H4Z5g&oe=634C3EAD
+Result: False
+
+Angela Iuzzolino - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+True - 0.58840328 - .\Potential_target_image\Angela Iuzzolino\Angela Iuzzolino.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/246259189_587391765835938_6678351594402923337_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=z_8LvRODf1kAX-0EHpk&tn=35vA6NBbXm000gT2&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT938ttID87HlZPNrcAzZUhb5eL69EDuP_Zqt1xcT_dAug&oe=632FB842&_nc_sid=5cbaad
+Result: True
+
+Angela Iuzzolino - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+

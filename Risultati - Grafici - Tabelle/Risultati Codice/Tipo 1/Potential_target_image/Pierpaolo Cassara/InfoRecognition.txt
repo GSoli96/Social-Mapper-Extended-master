@@ -1,0 +1,9 @@
+Pierpaolo Cassara - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+Pierpaolo Cassara - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.8326934 - .\Potential_target_image\Pierpaolo Cassara\Pierpaolo Cassara.jpg - https://media-exp1.licdn.com/dms/image/C5603AQG0gP1uHcwhAg/profile-displayphoto-shrink_100_100/0/1580989280961?e=1671062400&v=beta&t=IZH53-_LpttI1I7o0UL9f3AZpbbRcSx597G9-ogoteM
+Result: False
+

@@ -1,0 +1,25 @@
+Nello Avino - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.91276768 - .\Potential_target_image\Nello Avino\Nello Avino.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t1.6435-9/132068971_2800818400237437_7810033299875045914_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=9Qp14JIXcCkAX_4M8DV&_nc_ht=scontent.fnap2-1.fna&oh=00_AT_1YxZj3n0e-_nlk6wsxLXidoSZasX1yORinT2Q4vQSAg&oe=634AFA87
+Result: False
+
+False - 0.6459726 - .\Potential_target_image\Nello Avino\Nello Avino.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t1.6435-9/85151333_889131234860174_4888669855210799104_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=prG10qAeSy8AX9wD7NJ&_nc_ht=scontent.fnap2-1.fna&oh=00_AT87mf6KKcPLFfiLUEDbhUTst0fVxiknk5JxUpiM5EviVw&oe=634C3918
+Result: False
+
+False - 0.79061217 - .\Potential_target_image\Nello Avino\Nello Avino.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t1.6435-9/167844162_2793572657571136_8190868509164448549_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=NkYjM2ksEz4AX8VPlry&_nc_ht=scontent.fnap2-1.fna&oh=00_AT9lxjIGeW7Tegkz2M5HJddTySSeDTuJe72wJd3D7QStCw&oe=6349AF5A
+Result: False
+
+True - 0.4499253 - .\Potential_target_image\Nello Avino\Nello Avino.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t1.6435-9/76705092_10216650708765768_7884374016201326592_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Fp6Z4qLrls8AX-Y_dz2&_nc_ht=scontent.fnap2-1.fna&oh=00_AT9oLjoE3VpGWMAhUgwtO2bKPDHIJUecf9Nw2CZ-T0Qfew&oe=634AD5FA
+Result: True
+
+Nello Avino - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+Nello Avino - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+
+True - 0.27476299 - .\Potential_target_image\Nello Avino\Nello Avino.jpg - https://media-exp1.licdn.com/dms/image/C4D03AQHOE6rREmRFdQ/profile-displayphoto-shrink_100_100/0/1619552819022?e=1668643200&v=beta&t=saKngl8LqJk8bwpYPFKb724-svBORxXAX9opLHpvF6o
+True - 0.48802847 - .\Potential_target_image\Nello Avino\Nello Avino_FB.jpg - https://media-exp1.licdn.com/dms/image/C4D03AQHOE6rREmRFdQ/profile-displayphoto-shrink_100_100/0/1619552819022?e=1668643200&v=beta&t=saKngl8LqJk8bwpYPFKb724-svBORxXAX9opLHpvF6o
+Result: True
+

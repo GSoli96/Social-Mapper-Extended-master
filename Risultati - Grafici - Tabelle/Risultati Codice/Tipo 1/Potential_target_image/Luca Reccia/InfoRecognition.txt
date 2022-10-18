@@ -1,0 +1,18 @@
+Luca Reccia - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.80160198 - .\Potential_target_image\Luca Reccia\Luca Reccia.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t39.30808-6/274144526_1929844277359226_8625697593562298685_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=JwZFY_LqiSQAX_HsePD&_nc_ht=scontent.fnap2-1.fna&oh=00_AT-K92xS9liyLhnVfJ3rR-k3UHpTmL-rzr0ZCj4MqkX4Rg&oe=632A6ACC
+Result: False
+
+False - 0.78300536 - .\Potential_target_image\Luca Reccia\Luca Reccia.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t1.6435-9/90773675_10212983882151370_5607247613595222016_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=utccRGQKKaIAX8GWxX1&_nc_ht=scontent.fnap2-1.fna&oh=00_AT9wr1rEhp2JJCPmAMj5xnRzC6ZFc2LmnbUVZ5xge07Wdg&oe=6348D501
+Result: False
+
+Luca Reccia - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+Luca Reccia - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+
+True - 0.24888617 - .\Potential_target_image\Luca Reccia\Luca Reccia.jpg - https://media-exp1.licdn.com/dms/image/C4D03AQGnFi1ZMpyrpQ/profile-displayphoto-shrink_100_100/0/1597920599003?e=1668643200&v=beta&t=7nbu8uqhxGbX2jYlxIxHQx7mkuBbwfXZYyeWtVvcnsg
+Result: True
+

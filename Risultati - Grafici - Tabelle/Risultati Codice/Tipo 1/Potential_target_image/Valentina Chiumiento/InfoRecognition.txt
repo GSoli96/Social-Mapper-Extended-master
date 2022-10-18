@@ -1,0 +1,16 @@
+Valentina Chiumiento - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+True - 0. - .\Potential_target_image\Valentina Chiumiento\Valentina Chiumiento.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t39.30808-6/299488635_10217918741600425_6523549013746807943_n.jpg?stp=cp6_dst-jpg&_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=d_jknvo51jgAX__SfsX&_nc_ht=scontent.fnap2-1.fna&oh=00_AT8GfrgNLOaIGBjt3a_GxK725hAK7lo6_tK_T2TPwqE68Q&oe=632A5225
+Result: True
+
+Valentina Chiumiento - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+Valentina Chiumiento - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+
+True - 0.4465928 - .\Potential_target_image\Valentina Chiumiento\Valentina Chiumiento.jpg - https://media-exp1.licdn.com/dms/image/C5603AQHp4Y19cRrPOg/profile-displayphoto-shrink_100_100/0/1636714058298?e=1668643200&v=beta&t=Myh2eJ0OdxGSr1q7hqB8FF8vlRN_Tb7G5icvDLiDCMw
+True - 0.4465928 - .\Potential_target_image\Valentina Chiumiento\Valentina Chiumiento_FB.jpg - https://media-exp1.licdn.com/dms/image/C5603AQHp4Y19cRrPOg/profile-displayphoto-shrink_100_100/0/1636714058298?e=1668643200&v=beta&t=Myh2eJ0OdxGSr1q7hqB8FF8vlRN_Tb7G5icvDLiDCMw
+Result: True
+

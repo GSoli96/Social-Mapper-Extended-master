@@ -1,0 +1,32 @@
+Pasquale Mongillo - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.71659024 - .\Potential_target_image\Pasquale Mongillo\Pasquale Mongillo.jpg - https://scontent.fmxp6-1.fna.fbcdn.net/v/t1.6435-9/67403408_483978255482363_8364655950937718784_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=X2R876W9rvoAX_0nIjH&_nc_ht=scontent.fmxp6-1.fna&oh=00_AT90UBgQ4ZuawDJSnuvzqiGQ67jP-e1rqjklvEaR_YR3mA&oe=634AC1F1
+Result: False
+
+False - 0.86434938 - .\Potential_target_image\Pasquale Mongillo\Pasquale Mongillo.jpg - https://scontent.fmxp6-1.fna.fbcdn.net/v/t39.30808-6/279434526_1530546284034247_2474737772868277302_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ywJKA51mYuEAX_VjL9u&_nc_ht=scontent.fmxp6-1.fna&oh=00_AT__11xcbycpJOUS2_kUjk2u2U6TjLQi9Z6khwlIqGbf7A&oe=6329C30B
+Result: False
+
+False - 0.6489892 - .\Potential_target_image\Pasquale Mongillo\Pasquale Mongillo.jpg - https://scontent.fmxp6-1.fna.fbcdn.net/v/t31.18172-8/1504482_684781648219804_1308322443_o.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=f__h4uGnuHQAX9E4YO-&_nc_ht=scontent.fmxp6-1.fna&oh=00_AT-O0gqbekncp5UstXqBRHtpDqfF54eHGb91hx5tzuZrng&oe=63497E6D
+Result: False
+
+False - 0.85360626 - .\Potential_target_image\Pasquale Mongillo\Pasquale Mongillo.jpg - https://scontent.fmxp6-1.fna.fbcdn.net/v/t31.18172-8/11043341_1374234916233102_7193785817070967755_o.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=pW0gJne4nOYAX_ANDTA&_nc_ht=scontent.fmxp6-1.fna&oh=00_AT--wUjXOMg98IM8mzasCbph-TV7ynJzc_Ib045jpXY_XQ&oe=6349B10B
+Result: False
+
+True - 0.4663111 - .\Potential_target_image\Pasquale Mongillo\Pasquale Mongillo.jpg - https://scontent.fmxp6-1.fna.fbcdn.net/v/t1.6435-9/120702575_3554557551272620_8108290324248713540_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=u2jOMYGrCpwAX_-5DtJ&_nc_ht=scontent.fmxp6-1.fna&oh=00_AT-r_iUN8OXucRbtnv1ejgssAumMq2WvZNUj3yaxVqMbZg&oe=63492330
+Result: True
+
+Pasquale Mongillo - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.79219019 - .\Potential_target_image\Pasquale Mongillo\Pasquale Mongillo.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/116441797_1174746912883618_510411247552445661_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=wndKQFgw-FsAX-BPgtQ&tn=o61szvshebbUQCXc&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8ewz2qewd669prayjtfBvWTVp7rLIARt_JaUp6LROYvQ&oe=632CD340&_nc_sid=5cbaad
+False - 0.81029948 - .\Potential_target_image\Pasquale Mongillo\Pasquale Mongillo_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/116441797_1174746912883618_510411247552445661_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=wndKQFgw-FsAX-BPgtQ&tn=o61szvshebbUQCXc&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8ewz2qewd669prayjtfBvWTVp7rLIARt_JaUp6LROYvQ&oe=632CD340&_nc_sid=5cbaad
+Result: False
+
+True - 0.12195958 - .\Potential_target_image\Pasquale Mongillo\Pasquale Mongillo.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/128936791_487236515574797_6468503823744231820_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=vOLNzdMKujoAX_avqX1&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_aNHJq0RXDMzHIklOcGx61w_VzkmlZ16lzZssxBlsTbg&oe=632C4640&_nc_sid=5cbaad
+True - 0.46197691 - .\Potential_target_image\Pasquale Mongillo\Pasquale Mongillo_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/128936791_487236515574797_6468503823744231820_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=vOLNzdMKujoAX_avqX1&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_aNHJq0RXDMzHIklOcGx61w_VzkmlZ16lzZssxBlsTbg&oe=632C4640&_nc_sid=5cbaad
+Result: True
+
+Pasquale Mongillo - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+

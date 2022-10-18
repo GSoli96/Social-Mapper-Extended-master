@@ -1,0 +1,12 @@
+Eugenia Gottardi - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.65769649 - .\Potential_target_image\Eugenia Gottardi\Eugenia Gottardi.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/247464964_389700379478218_4267361805003093551_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=DtohUIAy37sAX8XrHpl&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9SKQqtYjqoJOdJTnWdmblz6X6Mnj4yCzq09pyHRwDYqg&oe=63503A5A&_nc_sid=5cbaad
+Result: False
+
+Eugenia Gottardi - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.91469752 - .\Potential_target_image\Eugenia Gottardi\Eugenia Gottardi.jpg - https://media-exp1.licdn.com/dms/image/D5635AQFqtmwhEDdnmg/profile-framedphoto-shrink_100_100/0/1630361785527?e=1666306800&v=beta&t=zoooFdiOxxou9HyVylE9c8nrTM-UXsz9Y3tzmcYpoFw
+Result: False
+

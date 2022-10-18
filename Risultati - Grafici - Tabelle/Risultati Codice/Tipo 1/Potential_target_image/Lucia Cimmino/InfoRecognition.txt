@@ -1,0 +1,51 @@
+Lucia Cimmino - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.70829657 - .\Potential_target_image\Lucia Cimmino\Lucia Cimmino.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t39.30808-6/296030888_2319995318152983_7406130971664298977_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=8z_qbGDxu0YAX_Z6_EN&_nc_ht=scontent.fnap2-1.fna&oh=00_AT-CmGYq17StuwmiaUg38aGUhcpb9223jhtnjl3Y4CLauQ&oe=632AFBC8
+Result: False
+
+False - 0.78539286 - .\Potential_target_image\Lucia Cimmino\Lucia Cimmino.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t39.30808-6/277177794_10216878681199357_2678065071124202650_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Z5G4vh2lZXcAX8yXm1t&_nc_ht=scontent.fnap2-1.fna&oh=00_AT-Rdoa6Odao5p8VOGvtAJSpJRbWh_KjuPStnQhl-kVbOQ&oe=6329BD2D
+Result: False
+
+False - 0.65216696 - .\Potential_target_image\Lucia Cimmino\Lucia Cimmino.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t39.30808-6/306992037_10225484518691838_4689407490150558055_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=W0OC1H1iqFYAX8_l7sx&_nc_ht=scontent.fnap2-1.fna&oh=00_AT-aXokQx1c5ycVQapqE3xBm2q3woxTPLXunuIVbSydgSg&oe=632A3E0F
+Result: False
+
+False - 0.76275345 - .\Potential_target_image\Lucia Cimmino\Lucia Cimmino.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t39.30808-6/259815826_431496261938333_8909985909632584621_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=MWsOMOiYzgoAX_3wqg-&_nc_ht=scontent.fnap2-1.fna&oh=00_AT-JJvuyCsnwuGg2HGV8XXaNDnBBxOXu46wPpVkPz6wsrQ&oe=63294F27
+Result: False
+
+False - 0.71112168 - .\Potential_target_image\Lucia Cimmino\Lucia Cimmino.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t39.30808-6/280941295_5742131582467554_6936836323963598639_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=-t0G1I7amGAAX8YawWM&_nc_ht=scontent.fnap2-1.fna&oh=00_AT8e-fgu0XIejYmOmLjaNFpk013TjMdHxD_j30ikV8_OGQ&oe=632AC558
+Result: False
+
+Lucia Cimmino - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.65971285 - .\Potential_target_image\Lucia Cimmino\Lucia Cimmino.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/304866902_3341672622719041_3778661125456014711_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=zc5WnYNDG0UAX9Ql-5E&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-AqUmi4p-g8an7_YCqxWYI_CK9ycy-kWvGxQHOqwnxwg&oe=632C0A25&_nc_sid=5cbaad
+Result: False
+
+False - 0.8164126 - .\Potential_target_image\Lucia Cimmino\Lucia Cimmino.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/20184740_126103891335896_5218030964197818368_a.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=Rx2sxfzjs70AX_7AQ8w&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_UX-WMg9Lm3lJUUqRzJ3NTC0oqI-m_K0HS9SmmrHIkkQ&oe=632BEFC3&_nc_sid=5cbaad
+Result: False
+
+False - 0.60974277 - .\Potential_target_image\Lucia Cimmino\Lucia Cimmino.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/97933542_948783802226225_5786481976156356608_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=MlO2Ub8YVr8AX-kZMTZ&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT81ey3LjsSPq84nOjmkavRSzYTdl80e7sHtMigCtY7Eyg&oe=632B5E2F&_nc_sid=5cbaad
+Result: False
+
+False - 0.78617329 - .\Potential_target_image\Lucia Cimmino\Lucia Cimmino.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/38745478_253388825347402_5223845632657063936_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=uID94IlpCfYAX9MiZ0S&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-nIAOzpCsDLSD1zoA-gmN3_izBCUmpKIV-xDKhfnR7aA&oe=632BFC9A&_nc_sid=5cbaad
+Result: False
+
+False - 0.9039622 - .\Potential_target_image\Lucia Cimmino\Lucia Cimmino.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/13398875_1540131889628979_576927123_a.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=gZds4C6XM1IAX-Jr--Y&tn=owHJ2loo8OGPMDvO&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_rMhzQ2CtOgOfW5iSUy5Mu4ZI7JFcSRT12DM7-cblFTA&oe=632CB249&_nc_sid=5cbaad
+Result: False
+
+False - 0.70519208 - .\Potential_target_image\Lucia Cimmino\Lucia Cimmino.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/119175980_768385333945606_3298717044639111020_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=5XbrfcoI558AX_LP86M&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-URHWSuZ4GVCsOjQuyOSQIFmYNLWPU9_fGC72JLjIx8w&oe=632D2EAC&_nc_sid=5cbaad
+Result: False
+
+Lucia Cimmino - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.69382567 - .\Potential_target_image\Lucia Cimmino\Lucia Cimmino.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQFgV1BmaKGONw/profile-displayphoto-shrink_100_100/0/1643398094546?e=1668643200&v=beta&t=8bXdv6srj-I1dxLWpjrbCPkdLs3pfOkxUV38jlNb2ck
+Result: False
+
+False - 0.6905381 - .\Potential_target_image\Lucia Cimmino\Lucia Cimmino.jpg - https://media-exp1.licdn.com/dms/image/D4D03AQGZyUZOUvx0Xg/profile-displayphoto-shrink_100_100/0/1646473991210?e=1668643200&v=beta&t=vOT_410SW4z19msLmx3SVMvq2xMORIGAklS-z4NWcOo
+Result: False
+
+True - 0.31384578 - .\Potential_target_image\Lucia Cimmino\Lucia Cimmino.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQEaFJ_BrJRNdA/profile-displayphoto-shrink_100_100/0/1596065303541?e=1668643200&v=beta&t=vJCGZHZQYOEtIpmOzXYbTmIKXIrZJuAeKzGks_QAjmg
+Result: True
+

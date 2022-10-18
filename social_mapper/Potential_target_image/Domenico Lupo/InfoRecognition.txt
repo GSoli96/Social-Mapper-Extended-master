@@ -1,0 +1,48 @@
+Domenico Lupo - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.76731895 - .\Potential_target_image\Domenico Lupo\Domenico Lupo.jpg - https://scontent.fmxp11-1.fna.fbcdn.net/v/t1.6435-1/116219271_102521774893859_4630826545578873292_n.jpg?stp=dst-jpg_p200x200&_nc_cat=108&ccb=1-7&_nc_sid=7206a8&_nc_ohc=4bbrKo7JJeoAX-mHONt&_nc_ht=scontent.fmxp11-1.fna&oh=00_AT_fb5ukPt0A_kB88SUUqSQwd6pjjjGVeLAm7BheB8ng6A&oe=636FCECF
+Result: False
+
+False - 0.82410066 - .\Potential_target_image\Domenico Lupo\Domenico Lupo.jpg - https://scontent.fmxp11-1.fna.fbcdn.net/v/t1.6435-1/162780330_919811825439217_2585482212070023422_n.jpg?stp=dst-jpg_p200x200&_nc_cat=101&ccb=1-7&_nc_sid=7206a8&_nc_ohc=mLHU3HuisGIAX-qaX_S&_nc_ht=scontent.fmxp11-1.fna&oh=00_AT8gBbtXmLjkM0xpSaABqHlSBlOO_6NyIXmISrALzqrwjg&oe=636C21D0
+Result: False
+
+Domenico Lupo - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.78326719 - .\Potential_target_image\Domenico Lupo\Domenico Lupo.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/310953952_466192732138852_3659938172931529884_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=RAptAaiRi68AX-HenyJ&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9fcEmBGYmSKwfJ_hzWYnanmOXHpvid4QLioU4RtxvtiQ&oe=634FA88E&_nc_sid=5cbaad
+Result: False
+
+False - 0.71927437 - .\Potential_target_image\Domenico Lupo\Domenico Lupo.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/253600262_313120056982920_6159336688540128759_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=YrP7Wh77hKAAX-5m-2y&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_3aSrtC0cuJ4w57I6Tm3ep0lNIKqhwU8LkYEnrS91b0w&oe=635041AA&_nc_sid=5cbaad
+Result: False
+
+False - 0.87179469 - .\Potential_target_image\Domenico Lupo\Domenico Lupo.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/255166475_260682176027740_7425018865066703251_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=nQlg_BlmScMAX8jcRJ1&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8jcU68AK3rtFEmn2khG6t-xaalT0mKLedgpoSlMGCZeg&oe=634FF50E&_nc_sid=5cbaad
+Result: False
+
+False - 0.76129646 - .\Potential_target_image\Domenico Lupo\Domenico Lupo.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/19761287_1700797530215925_1848092339768131584_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=TvHkkJimfL4AX9sIJNB&tn=UljquCp5tZMBrq6n&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_9eybpEdLbn0XlSbKgD_sE4zNL4YJsahlDcrGAen5OmA&oe=634E8A4A&_nc_sid=5cbaad
+Result: False
+
+False - 0.72468407 - .\Potential_target_image\Domenico Lupo\Domenico Lupo.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/25008824_413757002375253_3525068926151032832_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=GEzyhlQq9pYAX-2WXXC&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9iuHuEBLwEsf9culg_Gwxj-vwaiXNXqqhGoGDjp6us6A&oe=634F901F&_nc_sid=5cbaad
+Result: False
+
+False - 0.71189204 - .\Potential_target_image\Domenico Lupo\Domenico Lupo.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/279435588_367254632013934_1356128343318789114_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=fojYhTupRcYAX_-gv6q&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9aevVknW5GVrj4udmLVyC0xpS162iulWFgv85ucFPgAw&oe=634F2295&_nc_sid=5cbaad
+Result: False
+
+False - 0.74742039 - .\Potential_target_image\Domenico Lupo\Domenico Lupo.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/47583974_284907282197336_4985196805646974976_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=pp2dUik968kAX-YPwAE&tn=UljquCp5tZMBrq6n&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-j51d6jMQKZt8kUGKwcuubPGAnystywSorGxqUQT_ivg&oe=63505D9E&_nc_sid=5cbaad
+Result: False
+
+Domenico Lupo - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.73820453 - .\Potential_target_image\Domenico Lupo\Domenico Lupo.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQGIhe10EKvI-w/profile-displayphoto-shrink_100_100/0/1517227027571?e=1671062400&v=beta&t=zdVtfUaY3s4e20acETi_SmH9F5Dy44HL_inho5TuSaU
+Result: False
+
+False - 0.99745258 - .\Potential_target_image\Domenico Lupo\Domenico Lupo.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQG36UbsjTw9Jg/profile-displayphoto-shrink_100_100/0/1653373654660?e=1671062400&v=beta&t=ciIr4ZpuuIP-ftbb6YTj4CntVDe18QyldOyh9Ja_maA
+Result: False
+
+False - 0.76165813 - .\Potential_target_image\Domenico Lupo\Domenico Lupo.jpg - https://media-exp1.licdn.com/dms/image/C5603AQFCO9zDjg95Fg/profile-displayphoto-shrink_100_100/0/1612343669564?e=1671062400&v=beta&t=LiyHqLhpqI682ackWQYzoZMBhd5xKdCKGpfPmxdjqH0
+Result: False
+
+False - 0.74907529 - .\Potential_target_image\Domenico Lupo\Domenico Lupo.jpg - https://media-exp1.licdn.com/dms/image/C5603AQGyTIAgL3uoqg/profile-displayphoto-shrink_100_100/0/1633674082299?e=1671062400&v=beta&t=VfekJShEvcv6SQhhkVMlpT0yOxH6GwX563CojW9RKJs
+Result: False
+

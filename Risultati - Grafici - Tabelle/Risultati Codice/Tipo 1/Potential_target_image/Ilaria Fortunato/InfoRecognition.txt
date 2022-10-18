@@ -1,0 +1,86 @@
+Ilaria Fortunato - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.69491821 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t39.30808-6/278877655_10227661137369898_217879556768984213_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=9yGY-La9W58AX_A8QJj&_nc_ht=scontent.fnap2-1.fna&oh=00_AT_aeav0B_ZaiC1QSxA3Tx1Prb6KR_7QRgnCy-qAA0HDag&oe=632A2932
+Result: False
+
+False - 0.81579749 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t1.6435-9/43684222_1920358811387487_4996782170690289664_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=1OOYlbVsYgcAX-N4z94&_nc_ht=scontent.fnap2-1.fna&oh=00_AT8OpjJTcW_RwHlVhsOtm8HwQB-3gBKJBaZAVPsMeONvNQ&oe=634B793F
+Result: False
+
+True - 0.47909389 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t39.30808-6/299971083_6110408798974964_6858303483859156207_n.jpg?stp=cp6_dst-jpg&_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=HecI6N56ERgAX-AJmoe&_nc_ht=scontent.fnap2-1.fna&oh=00_AT_3d85EPpdVcc6NMKsYK0vo_qETERot8-6_ppg1L43PeQ&oe=632B1C90
+Result: True
+
+Ilaria Fortunato - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.69478744 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/301543062_1406261089866884_2755609360814017501_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=axO5ND1hgvYAX_9M0-X&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8t2d1KAdW93CeUwoQvM2GyuPgpqgmuQGhiC1zHWKVpog&oe=632B3EBD&_nc_sid=5cbaad
+False - 0.65124914 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/301543062_1406261089866884_2755609360814017501_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=axO5ND1hgvYAX_9M0-X&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8t2d1KAdW93CeUwoQvM2GyuPgpqgmuQGhiC1zHWKVpog&oe=632B3EBD&_nc_sid=5cbaad
+Result: False
+
+False - 0.74990433 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/293201100_463367365629910_3009645197364683871_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=dmUGNUnstSYAX9vZ-Wa&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_mR_mH6kdJT-05DC2jKCfDpE6wvAg4LjVWUSI_OUMPFQ&oe=632B9467&_nc_sid=5cbaad
+False - 0.71584699 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/293201100_463367365629910_3009645197364683871_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=dmUGNUnstSYAX9vZ-Wa&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_mR_mH6kdJT-05DC2jKCfDpE6wvAg4LjVWUSI_OUMPFQ&oe=632B9467&_nc_sid=5cbaad
+Result: False
+
+False - 0.85060931 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/285844592_405134141338450_8921205130412044224_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=gYrHsT98MFoAX-YJHn7&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-94J0awSnfHmIWWqFA7ARLv6CRGCDBQwbYFdmOfo5giA&oe=632B68B3&_nc_sid=5cbaad
+False - 0.84457377 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/285844592_405134141338450_8921205130412044224_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=gYrHsT98MFoAX-YJHn7&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-94J0awSnfHmIWWqFA7ARLv6CRGCDBQwbYFdmOfo5giA&oe=632B68B3&_nc_sid=5cbaad
+Result: False
+
+False - 0.8060412 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/244774030_590382955340066_7661774170047030764_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=cMsJHNa4e9QAX8JUDmo&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-PYuBD7TlttD2123Vqz4zIB-Dtkux4gbJsQ3DhN7Fg7w&oe=632B9A52&_nc_sid=5cbaad
+False - 0.75705565 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/244774030_590382955340066_7661774170047030764_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=cMsJHNa4e9QAX8JUDmo&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-PYuBD7TlttD2123Vqz4zIB-Dtkux4gbJsQ3DhN7Fg7w&oe=632B9A52&_nc_sid=5cbaad
+Result: False
+
+False - 0.79829301 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/245025909_889577921677019_5746785895163504262_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=p5dLzp9R7MsAX-0V8Tv&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8_jYhKTh5XWpztFBiblawUcrfeKprGwWYKbeOri3Grog&oe=632D1C2C&_nc_sid=5cbaad
+False - 0.74630119 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/245025909_889577921677019_5746785895163504262_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=p5dLzp9R7MsAX-0V8Tv&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8_jYhKTh5XWpztFBiblawUcrfeKprGwWYKbeOri3Grog&oe=632D1C2C&_nc_sid=5cbaad
+Result: False
+
+False - 0.77336454 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/257588959_326685788816684_951118269123652896_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=U8iY9EVGSf0AX96eboz&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-LQ7Oo7TQ7HxB9tsTOEobgFTcVY9C7Ns27rMQ45nymsw&oe=632BAEE2&_nc_sid=5cbaad
+False - 0.70741303 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/257588959_326685788816684_951118269123652896_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=U8iY9EVGSf0AX96eboz&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-LQ7Oo7TQ7HxB9tsTOEobgFTcVY9C7Ns27rMQ45nymsw&oe=632BAEE2&_nc_sid=5cbaad
+Result: False
+
+False - 0.84065261 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/14240638_334945943506721_445140764_a.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=aPfYstyFK3QAX8v1nFW&tn=owHJ2loo8OGPMDvO&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8_eSCw2cgoPR47kj_eodBqMgXggR_Lemz0R37sM7YaOg&oe=632C6444&_nc_sid=5cbaad
+False - 0.72271058 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/14240638_334945943506721_445140764_a.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=aPfYstyFK3QAX8v1nFW&tn=owHJ2loo8OGPMDvO&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8_eSCw2cgoPR47kj_eodBqMgXggR_Lemz0R37sM7YaOg&oe=632C6444&_nc_sid=5cbaad
+Result: False
+
+False - 0.72651733 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/11023221_376639879201874_742482501_a.jpg?_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=i3fJo8A_grAAX-84Yaj&tn=owHJ2loo8OGPMDvO&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-bPmv8jV0KIc_rMjkTMCak6t32VDBhXilWsGwyCKhVLQ&oe=632CA890&_nc_sid=5cbaad
+False - 0.71885123 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/11023221_376639879201874_742482501_a.jpg?_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=i3fJo8A_grAAX-84Yaj&tn=owHJ2loo8OGPMDvO&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-bPmv8jV0KIc_rMjkTMCak6t32VDBhXilWsGwyCKhVLQ&oe=632CA890&_nc_sid=5cbaad
+Result: False
+
+False - 0.78381139 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/283392360_1182119169231366_6794787939882688398_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=3DUpcTV8_4EAX8eQ70f&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-10zSPr-Urk7AgMWCgeToFrG8Kavy8nH9GFX4LCGdCaA&oe=632B6BB1&_nc_sid=5cbaad
+False - 0.68206831 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/283392360_1182119169231366_6794787939882688398_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=3DUpcTV8_4EAX8eQ70f&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-10zSPr-Urk7AgMWCgeToFrG8Kavy8nH9GFX4LCGdCaA&oe=632B6BB1&_nc_sid=5cbaad
+Result: False
+
+False - 0.77848194 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/279842874_1026412891593699_1227479753392605417_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=_5NVbOkFe1kAX-yG9aM&tn=owHJ2loo8OGPMDvO&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_3-nqZaf21Le6huRn1GLaitXmyjnbLtMdux_hK-gklNw&oe=632B496C&_nc_sid=5cbaad
+False - 0.72755754 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/279842874_1026412891593699_1227479753392605417_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=_5NVbOkFe1kAX-yG9aM&tn=owHJ2loo8OGPMDvO&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_3-nqZaf21Le6huRn1GLaitXmyjnbLtMdux_hK-gklNw&oe=632B496C&_nc_sid=5cbaad
+Result: False
+
+False - 0.71083172 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/21985035_953741914776899_7150111535468118016_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=XWRJtiSsPeEAX-ejX8A&tn=owHJ2loo8OGPMDvO&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8761BcTDuowtbyuAM4pabzOw1462TIIeZjWVoKVr9nYA&oe=632C3A7F&_nc_sid=5cbaad
+False - 0.60027306 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/21985035_953741914776899_7150111535468118016_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=XWRJtiSsPeEAX-ejX8A&tn=owHJ2loo8OGPMDvO&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8761BcTDuowtbyuAM4pabzOw1462TIIeZjWVoKVr9nYA&oe=632C3A7F&_nc_sid=5cbaad
+Result: False
+
+False - 0.89907511 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/13388527_1739872649594085_551455745_a.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=hS_kfQrRVYIAX-M6W2D&tn=owHJ2loo8OGPMDvO&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_FXugPW--Ar0BBJ78f1QmC5sZWkdeciikx0XTpFkFDRA&oe=632CBEED&_nc_sid=5cbaad
+False - 0.88381086 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/13388527_1739872649594085_551455745_a.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=hS_kfQrRVYIAX-M6W2D&tn=owHJ2loo8OGPMDvO&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_FXugPW--Ar0BBJ78f1QmC5sZWkdeciikx0XTpFkFDRA&oe=632CBEED&_nc_sid=5cbaad
+Result: False
+
+False - 0.92011705 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/59493978_2181597862153501_1458654886102040576_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=IqwPsZwPOGIAX_ZUpSI&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-0wWmDrVtMM5GRAtlRa2KL9lfLniKAZatJQg4BpqIYvg&oe=632B7BA9&_nc_sid=5cbaad
+False - 0.89908749 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/59493978_2181597862153501_1458654886102040576_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=IqwPsZwPOGIAX_ZUpSI&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-0wWmDrVtMM5GRAtlRa2KL9lfLniKAZatJQg4BpqIYvg&oe=632B7BA9&_nc_sid=5cbaad
+Result: False
+
+False - 0.67633307 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/301973985_483563916948628_5121198666437984163_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=-sk7l1izJRkAX8tOKoD&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-0wAUR-mZRAPJQ6u1tMR_0PsAbJPAvgIhbCPgXM6qNVA&oe=632B5764&_nc_sid=5cbaad
+False - 0.73596872 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/301973985_483563916948628_5121198666437984163_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=-sk7l1izJRkAX8tOKoD&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-0wAUR-mZRAPJQ6u1tMR_0PsAbJPAvgIhbCPgXM6qNVA&oe=632B5764&_nc_sid=5cbaad
+Result: False
+
+False - 0.71703815 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/34057746_215341349293101_5003616374191292416_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=tQ1V5Rb4DuQAX8nkVgs&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8yuUesFq_WMvdEaF9kesm9mzhUYAWSWATGcCsEb_BPsQ&oe=632C93AA&_nc_sid=5cbaad
+False - 0.68437003 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/34057746_215341349293101_5003616374191292416_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=tQ1V5Rb4DuQAX8nkVgs&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8yuUesFq_WMvdEaF9kesm9mzhUYAWSWATGcCsEb_BPsQ&oe=632C93AA&_nc_sid=5cbaad
+Result: False
+
+Ilaria Fortunato - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.78053469 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQG9Hl-hw4uCkw/profile-displayphoto-shrink_100_100/0/1632231867037?e=1668643200&v=beta&t=s6OTYBmW1Qq3Q4xZAtjkdjmhmboK1NTSivsE1ha79cQ
+False - 0.76019912 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato_FB.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQG9Hl-hw4uCkw/profile-displayphoto-shrink_100_100/0/1632231867037?e=1668643200&v=beta&t=s6OTYBmW1Qq3Q4xZAtjkdjmhmboK1NTSivsE1ha79cQ
+Result: False
+
+False - 0.77795622 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato.jpg - https://media-exp1.licdn.com/dms/image/C5603AQFwuKDaJwSlqg/profile-displayphoto-shrink_100_100/0/1570090852187?e=1668643200&v=beta&t=7G60dMH4znel8VKR-hffPWEq8AkdpVVpIrx-ZG4yflU
+False - 0.70302149 - .\Potential_target_image\Ilaria Fortunato\Ilaria Fortunato_FB.jpg - https://media-exp1.licdn.com/dms/image/C5603AQFwuKDaJwSlqg/profile-displayphoto-shrink_100_100/0/1570090852187?e=1668643200&v=beta&t=7G60dMH4znel8VKR-hffPWEq8AkdpVVpIrx-ZG4yflU
+Result: False
+

@@ -1,0 +1,17 @@
+Nicoletta Orengo - typeFacesRecognition: 2 - threshold: 0.6, Social: Instagram
+Match, Distance, Threshold, Model, Link_Image, Link_SocialImage
+
+Nicoletta Orengo - typeFacesRecognition: 2 - threshold: 0.6, Social: Linkedin
+Match, Distance, Threshold, Model, Link_Image, Link_SocialImage
+
+True - 0.4747192887937291 - 0.6 - VGG-Face - .\Potential_target_image\Nicoletta Orengo\Nicoletta Orengo.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQGYy7RErHYmoA/profile-displayphoto-shrink_100_100/0/1646270953688?e=1671062400&v=beta&t=R1hzkIcqXh8pJZ1N1p4oeQQV0ijrvAqscQ8LjkVsxzI
+True - 6.353965157683478 - 10 - Facenet - .\Potential_target_image\Nicoletta Orengo\Nicoletta Orengo.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQGYy7RErHYmoA/profile-displayphoto-shrink_100_100/0/1646270953688?e=1671062400&v=beta&t=R1hzkIcqXh8pJZ1N1p4oeQQV0ijrvAqscQ8LjkVsxzI
+False - 25.565552849173816 - 23.56 - Facenet512 - .\Potential_target_image\Nicoletta Orengo\Nicoletta Orengo.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQGYy7RErHYmoA/profile-displayphoto-shrink_100_100/0/1646270953688?e=1671062400&v=beta&t=R1hzkIcqXh8pJZ1N1p4oeQQV0ijrvAqscQ8LjkVsxzI
+False - 1.1597821527661123 - 0.55 - OpenFace - .\Potential_target_image\Nicoletta Orengo\Nicoletta Orengo.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQGYy7RErHYmoA/profile-displayphoto-shrink_100_100/0/1646270953688?e=1671062400&v=beta&t=R1hzkIcqXh8pJZ1N1p4oeQQV0ijrvAqscQ8LjkVsxzI
+False - 78.84744122300008 - 64 - DeepFace - .\Potential_target_image\Nicoletta Orengo\Nicoletta Orengo.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQGYy7RErHYmoA/profile-displayphoto-shrink_100_100/0/1646270953688?e=1671062400&v=beta&t=R1hzkIcqXh8pJZ1N1p4oeQQV0ijrvAqscQ8LjkVsxzI
+False - 122.39260066018477 - 45 - DeepID - .\Potential_target_image\Nicoletta Orengo\Nicoletta Orengo.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQGYy7RErHYmoA/profile-displayphoto-shrink_100_100/0/1646270953688?e=1671062400&v=beta&t=R1hzkIcqXh8pJZ1N1p4oeQQV0ijrvAqscQ8LjkVsxzI
+True - 1.9928272407047622 - 4.15 - ArcFace - .\Potential_target_image\Nicoletta Orengo\Nicoletta Orengo.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQGYy7RErHYmoA/profile-displayphoto-shrink_100_100/0/1646270953688?e=1671062400&v=beta&t=R1hzkIcqXh8pJZ1N1p4oeQQV0ijrvAqscQ8LjkVsxzI
+False - 0.7562217034824293 - 0.6 - Dlib - .\Potential_target_image\Nicoletta Orengo\Nicoletta Orengo.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQGYy7RErHYmoA/profile-displayphoto-shrink_100_100/0/1646270953688?e=1671062400&v=beta&t=R1hzkIcqXh8pJZ1N1p4oeQQV0ijrvAqscQ8LjkVsxzI
+True - 5.77286908090384 - 10.734038121282206 - SFace - .\Potential_target_image\Nicoletta Orengo\Nicoletta Orengo.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQGYy7RErHYmoA/profile-displayphoto-shrink_100_100/0/1646270953688?e=1671062400&v=beta&t=R1hzkIcqXh8pJZ1N1p4oeQQV0ijrvAqscQ8LjkVsxzI
+Result: False
+
