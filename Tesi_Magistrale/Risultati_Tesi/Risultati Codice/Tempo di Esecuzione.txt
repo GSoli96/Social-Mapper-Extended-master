@@ -1,0 +1,5 @@
+Tipo 1
+Task Duration: 8:31:35.503481
+
+Tipo 2 
+Task Duration: 10:09:15.686014
