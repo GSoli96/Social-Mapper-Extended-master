@@ -1,6 +1,0 @@
-Leopoldo Bellocchio - typeFacesRecognition: 2 - threshold: 0.6, Social: Instagram
-Match, Distance, Threshold, Model, Link_Image, Link_SocialImage
-
-Leopoldo Bellocchio - typeFacesRecognition: 2 - threshold: 0.6, Social: Linkedin
-Match, Distance, Threshold, Model, Link_Image, Link_SocialImage
-

@@ -1,5 +1,0 @@
-Un vero positivo è un risultato in cui il modello prevede correttamente la classe positiva . 
-Allo stesso modo, un vero negativo è un risultato in cui il modello prevede correttamente la classe negativa .
-
-Un falso positivo è un risultato in cui il modello prevede erroneamente la classe positiva . 
-E un falso negativo è un risultato in cui il modello prevede erroneamente la classe negativa .

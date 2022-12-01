@@ -1,9 +1,0 @@
-Fabrizio Bragadin - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
-Match,Distance, Link_Image, Link_SocialImage
-
-Fabrizio Bragadin - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
-Match,Distance, Link_Image, Link_SocialImage
-
-Fabrizio Bragadin - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
-Match,Distance, Link_Image, Link_SocialImage
-
