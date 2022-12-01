@@ -1,0 +1,27 @@
+Giovanni Cammarano - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.73981144 - .\Potential_target_image\Giovanni Cammarano\Giovanni Cammarano.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t1.6435-9/95657652_988056994930300_4679110781566976000_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=nWanLN6UzCsAX9IDDDy&_nc_ht=scontent.fnap2-1.fna&oh=00_AT-Y0Jt44W0n1BDY1sl_Xo8k_Kx5fW7D-3tPKP7uaDgoMQ&oe=634A2DFE
+Result: False
+
+False - 0.89010087 - .\Potential_target_image\Giovanni Cammarano\Giovanni Cammarano.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t39.30808-6/305761767_1159738131320032_1336787116399398567_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=WYWO-uqh6p4AX9AVHG6&_nc_ht=scontent.fnap2-1.fna&oh=00_AT-ZhFi5p57fbyfD3S8aWxZrTg-pHSi29YcXZM8ufaU1fg&oe=63297A0E
+Result: False
+
+False - 0.79926417 - .\Potential_target_image\Giovanni Cammarano\Giovanni Cammarano.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t1.6435-9/75614051_2490175287919429_8743442267961819136_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=91YfnL8OxxEAX-57OW8&_nc_ht=scontent.fnap2-1.fna&oh=00_AT8-dNJN-T06T58Kv0xXHmOIMjWN27tqNQavbhgdGdl6kw&oe=634CB753
+Result: False
+
+False - 0.77376023 - .\Potential_target_image\Giovanni Cammarano\Giovanni Cammarano.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t31.18172-8/23213224_512662732400253_3063845908815883894_o.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Kw8G-x7v0wQAX-SPb9s&_nc_ht=scontent.fnap2-1.fna&oh=00_AT8korr-867VAkXTUMPZ78E81wydBt5YNgGtqwvEt0M9ig&oe=634B8F03
+Result: False
+
+False - 0.84861019 - .\Potential_target_image\Giovanni Cammarano\Giovanni Cammarano.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t39.30808-6/300664642_10224090447883061_5845158545152251739_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=lIhPEhlOrKcAX-C3lO6&_nc_ht=scontent.fnap2-1.fna&oh=00_AT-zuRTUC7lS-qGkom0pgPF7mcpYNVLuZ6KaO48dWavaDg&oe=632A07E0
+Result: False
+
+Giovanni Cammarano - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+Giovanni Cammarano - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+
+True - 0.48869762 - .\Potential_target_image\Giovanni Cammarano\Giovanni Cammarano.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQETko1MSvMxSA/profile-displayphoto-shrink_100_100/0/1655761284264?e=1668643200&v=beta&t=rLBi-fM4NCrdwKTnCOgxD4tfSDpmDi8PFm0K3v5hy3E
+Result: True
+

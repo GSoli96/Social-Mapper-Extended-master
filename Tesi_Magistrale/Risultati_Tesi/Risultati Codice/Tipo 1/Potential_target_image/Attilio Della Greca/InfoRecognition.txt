@@ -1,0 +1,16 @@
+Attilio Della Greca - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+True - 0.45999993 - .\Potential_target_image\Attilio Della Greca\Attilio Della Greca.jpg - https://scontent.fmxp6-1.fna.fbcdn.net/v/t39.30808-6/295240875_5586876031375704_4679686711471900776_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=fow5b49KKiYAX9xVGIy&_nc_ht=scontent.fmxp6-1.fna&oh=00_AT91Q7WzwOOm4AnR6f5s8idlgB3WkgVTT-uyNTY9LPFffg&oe=632DDEF7
+Result: True
+
+Attilio Della Greca - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+Attilio Della Greca - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.80499453 - .\Potential_target_image\Attilio Della Greca\Attilio Della Greca.jpg - https://media-exp1.licdn.com/dms/image/C5603AQFLGnCZv-uDjQ/profile-displayphoto-shrink_100_100/0/1548761011264?e=1669248000&v=beta&t=dB-FfZpkvAhjxulwCbWnn-SgCpRuiWDO8jcYi7QtTyQ
+False - 0.81988045 - .\Potential_target_image\Attilio Della Greca\Attilio Della Greca_FB.jpg - https://media-exp1.licdn.com/dms/image/C5603AQFLGnCZv-uDjQ/profile-displayphoto-shrink_100_100/0/1548761011264?e=1669248000&v=beta&t=dB-FfZpkvAhjxulwCbWnn-SgCpRuiWDO8jcYi7QtTyQ
+Result: False
+

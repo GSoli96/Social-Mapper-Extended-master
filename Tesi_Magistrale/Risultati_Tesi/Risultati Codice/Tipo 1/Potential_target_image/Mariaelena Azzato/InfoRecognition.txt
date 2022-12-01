@@ -1,0 +1,16 @@
+Mariaelena Azzato - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+True - 0.50266104 - .\Potential_target_image\Mariaelena Azzato\Mariaelena Azzato.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t1.18169-9/10898242_1378897302415052_7972079559149355679_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=azDycUaKqr8AX-G2JDj&_nc_ht=scontent.fnap2-1.fna&oh=00_AT8PTa6A-Fs70H2xN232_S7NNuhRQfvlekKoQmL_AYU5PA&oe=634BF124
+Result: True
+
+Mariaelena Azzato - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+True - 0.43529863 - .\Potential_target_image\Mariaelena Azzato\Mariaelena Azzato.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/295874767_721784125581160_2782182097061797288_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=ItwchTJvNDEAX-V-Mog&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9GoOqClFYnP1dReXZcr3Lk5SAQDKrakUFYw_e0tv7D6Q&oe=632CC8A6&_nc_sid=5cbaad
+True - 0.5843859 - .\Potential_target_image\Mariaelena Azzato\Mariaelena Azzato_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/295874767_721784125581160_2782182097061797288_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=ItwchTJvNDEAX-V-Mog&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9GoOqClFYnP1dReXZcr3Lk5SAQDKrakUFYw_e0tv7D6Q&oe=632CC8A6&_nc_sid=5cbaad
+Result: True
+
+Mariaelena Azzato - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+

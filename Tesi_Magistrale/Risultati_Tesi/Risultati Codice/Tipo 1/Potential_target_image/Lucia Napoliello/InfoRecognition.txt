@@ -1,0 +1,30 @@
+Lucia Napoliello - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.86903934 - .\Potential_target_image\Lucia Napoliello\Lucia Napoliello.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t1.6435-9/131895952_1095087034276615_8593139575185397307_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=yh1iQGhOC6sAX9q4CUB&_nc_ht=scontent.fnap2-1.fna&oh=00_AT_x9fct5Sao0Ve38CnillaInNlqCKYvLKfL3r2esZWpaA&oe=634AE809
+Result: False
+
+False - 0.69370695 - .\Potential_target_image\Lucia Napoliello\Lucia Napoliello.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t1.6435-9/60332500_107489227154580_7497719499479580672_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=dVxx9n3ZsvoAX8Z5hZf&_nc_ht=scontent.fnap2-1.fna&oh=00_AT_lXdFrqL4AV0xUX93buetDE8ZfG5kqnvSCO8Al6Jp6eg&oe=63499510
+Result: False
+
+False - 0.75155249 - .\Potential_target_image\Lucia Napoliello\Lucia Napoliello.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t1.18169-1/22450039_10213885002986617_7007534816933300229_n.jpg?stp=dst-jpg_p200x200&_nc_cat=110&ccb=1-7&_nc_sid=7206a8&_nc_ohc=cds0O9GUTbcAX82UC9J&_nc_ht=scontent.fnap2-1.fna&oh=00_AT9hALz0WIcBEVUY5Yp1oG2dwrhUsxprIDDjBn_iasjhWw&oe=63497F39
+Result: False
+
+False - 0.8127996 - .\Potential_target_image\Lucia Napoliello\Lucia Napoliello.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t39.30808-6/269624452_10217699164465780_674727266910317012_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=mcKA021UosoAX9PyFGq&_nc_ht=scontent.fnap2-1.fna&oh=00_AT_v1ngCdtSl1tCVxwnYnw88CKWYIuduUkySAy5Tu1XBxg&oe=632A92BB
+Result: False
+
+Lucia Napoliello - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.71739441 - .\Potential_target_image\Lucia Napoliello\Lucia Napoliello.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/282831021_372867231568857_2814655769875288976_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=mLTvJBk8MoIAX_zPWw7&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-UYckZfC2FCIg9L04ri67L0LE0-RApBqQ8B9hr9IXt7w&oe=632C10E5&_nc_sid=5cbaad
+Result: False
+
+False - 0.87150363 - .\Potential_target_image\Lucia Napoliello\Lucia Napoliello.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/20968872_132072047409692_8841975698269667328_a.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=udavgm9Zg-MAX-CRH1S&tn=owHJ2loo8OGPMDvO&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8meLYf5Dd1bBVyXZcik_lvFY8zqgvMlC72N2ehmi9d6Q&oe=632BE18D&_nc_sid=5cbaad
+Result: False
+
+Lucia Napoliello - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+
+True - 0.27233746 - .\Potential_target_image\Lucia Napoliello\Lucia Napoliello.jpg - https://media-exp1.licdn.com/dms/image/C4D03AQHcBclBV9dOtw/profile-displayphoto-shrink_100_100/0/1592764640541?e=1668643200&v=beta&t=w2Lkw0ZxwtSp5UKVLLMzI9xNcAfty7N7Y1vzZP1Uoko
+Result: True
+

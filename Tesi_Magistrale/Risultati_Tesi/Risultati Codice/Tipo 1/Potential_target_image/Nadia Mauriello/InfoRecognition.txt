@@ -1,0 +1,29 @@
+Nadia Mauriello - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.81355931 - .\Potential_target_image\Nadia Mauriello\Nadia Mauriello.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t39.30808-6/300628618_139141858815556_8451842657287086236_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=-y9fs7anGdgAX-17b8K&_nc_ht=scontent.fnap2-1.fna&oh=00_AT8Geo7GRNxXrz2zn5mrKJ0t_JXj5RCP5McCGjW0KLXJuA&oe=632A9CE0
+Result: False
+
+True - 0.58240078 - .\Potential_target_image\Nadia Mauriello\Nadia Mauriello.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t1.6435-9/64667304_1361611930657046_2883392119114825728_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=la0xc4-dLmEAX9CYZIh&_nc_ht=scontent.fnap2-1.fna&oh=00_AT-hX-nNQsVh0th6xIHDR9z8HDTciyCJSguDQWM3p31BXg&oe=6348F4FD
+Result: True
+
+Nadia Mauriello - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+True - 0.51681237 - .\Potential_target_image\Nadia Mauriello\Nadia Mauriello.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/134516100_1548389535344405_5008118143591923196_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=yu6prc0Nvw0AX8V9a1T&tn=owHJ2loo8OGPMDvO&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_QvY1zqWWN4Wcv3LDc3MOfsmJes5ObwNnNmAOGr5_UcA&oe=632BBE21&_nc_sid=5cbaad
+True - 0.52355912 - .\Potential_target_image\Nadia Mauriello\Nadia Mauriello_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/134516100_1548389535344405_5008118143591923196_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=yu6prc0Nvw0AX8V9a1T&tn=owHJ2loo8OGPMDvO&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_QvY1zqWWN4Wcv3LDc3MOfsmJes5ObwNnNmAOGr5_UcA&oe=632BBE21&_nc_sid=5cbaad
+Result: True
+
+Nadia Mauriello - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.79524249 - .\Potential_target_image\Nadia Mauriello\Nadia Mauriello.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQFFTr_JqBIR0A/profile-displayphoto-shrink_100_100/0/1655149695391?e=1668643200&v=beta&t=44xdadhG9Cc_Rirzy2u4u3cCCq75cwzkJG5j8qe42Ac
+False - 0.70162083 - .\Potential_target_image\Nadia Mauriello\Nadia Mauriello_FB.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQFFTr_JqBIR0A/profile-displayphoto-shrink_100_100/0/1655149695391?e=1668643200&v=beta&t=44xdadhG9Cc_Rirzy2u4u3cCCq75cwzkJG5j8qe42Ac
+False - 0.72199125 - .\Potential_target_image\Nadia Mauriello\Nadia Mauriello_IG.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQFFTr_JqBIR0A/profile-displayphoto-shrink_100_100/0/1655149695391?e=1668643200&v=beta&t=44xdadhG9Cc_Rirzy2u4u3cCCq75cwzkJG5j8qe42Ac
+Result: False
+
+False - 0.93893036 - .\Potential_target_image\Nadia Mauriello\Nadia Mauriello.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQFx2RAE90ud4g/profile-displayphoto-shrink_100_100/0/1657354672362?e=1668643200&v=beta&t=saI52ioG2G_z-L8ZwSgiIbY2-sW9_OGuAdbJMloMiwg
+False - 0.78573028 - .\Potential_target_image\Nadia Mauriello\Nadia Mauriello_FB.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQFx2RAE90ud4g/profile-displayphoto-shrink_100_100/0/1657354672362?e=1668643200&v=beta&t=saI52ioG2G_z-L8ZwSgiIbY2-sW9_OGuAdbJMloMiwg
+False - 0.8548285 - .\Potential_target_image\Nadia Mauriello\Nadia Mauriello_IG.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQFx2RAE90ud4g/profile-displayphoto-shrink_100_100/0/1657354672362?e=1668643200&v=beta&t=saI52ioG2G_z-L8ZwSgiIbY2-sW9_OGuAdbJMloMiwg
+Result: False
+

@@ -1,0 +1,18 @@
+Luca Pangaro - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.67002541 - .\Potential_target_image\Luca Pangaro\Luca Pangaro.jpg - https://scontent.fmxp6-1.fna.fbcdn.net/v/t31.18172-8/12525437_10205631947667203_1477795123321070834_o.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=U1MMohAsqtsAX9j09vx&_nc_ht=scontent.fmxp6-1.fna&oh=00_AT_WZx8E_GxVB63zU8RQMtITRQh2jgRPX0WyPAoliihWAw&oe=634DC2E3
+Result: False
+
+False - 0.70903488 - .\Potential_target_image\Luca Pangaro\Luca Pangaro.jpg - https://scontent.fmxp6-1.fna.fbcdn.net/v/t1.6435-9/67966528_139260943957895_656374975397101568_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=5S6Lk9esfvYAX8tZHfH&_nc_ht=scontent.fmxp6-1.fna&oh=00_AT-0Z2OFIU9fKUXIRi2NUTTjTSf9ZcH-EDvlKJGeYheQpQ&oe=634DC10D
+Result: False
+
+Luca Pangaro - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+Luca Pangaro - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.73558705 - .\Potential_target_image\Luca Pangaro\Luca Pangaro.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQHGH-QM6f2X9A/profile-displayphoto-shrink_100_100/0/1602426805593?e=1669248000&v=beta&t=zYg8HJnLQQrDM7TWI5lJlU7wM5RJIT-bYC7w6hnE5w8
+Result: False
+

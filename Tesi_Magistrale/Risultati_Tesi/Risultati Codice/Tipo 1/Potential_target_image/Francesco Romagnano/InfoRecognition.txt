@@ -1,0 +1,19 @@
+Francesco Romagnano - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+Result: False
+
+Result: False
+
+Result: False
+
+Francesco Romagnano - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+Result: False
+
+Francesco Romagnano - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+
+Result: False
+

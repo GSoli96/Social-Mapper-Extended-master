@@ -1,0 +1,58 @@
+Nico Masino - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.76492664 - .\Potential_target_image\Nico Masino\Nico Masino.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t1.6435-9/70481754_1501040603372346_3555324166137708544_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=cek6LzJYcgAAX9pQwyE&_nc_ht=scontent.fnap2-1.fna&oh=00_AT_oAWjsbuHN94JXm0kQFcYJA2msdK2EWbjMj_2AgEQTmQ&oe=634A7198
+Result: False
+
+False - 0.85524762 - .\Potential_target_image\Nico Masino\Nico Masino.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t1.6435-9/158780602_901941800627410_4042114793051680991_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=wUar3lBnSJAAX9mMIyR&_nc_ht=scontent.fnap2-1.fna&oh=00_AT8iXyQWOtRv8R7Y0lH3C5FQlOmv9upPnqr-ekX8qUgQow&oe=63494A65
+Result: False
+
+True - 0.53309407 - .\Potential_target_image\Nico Masino\Nico Masino.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t1.6435-9/165269829_4397783630236320_3349675201183946061_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=S0ExSxxVuEAAX8qku7_&_nc_ht=scontent.fnap2-1.fna&oh=00_AT8Kq-fzoSkCRlXgrcY9Kq4NZukpsnlOD_FtnTrakicgYw&oe=634B3D77
+Result: True
+
+Nico Masino - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.76725893 - .\Potential_target_image\Nico Masino\Nico Masino.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/295069526_133880795750022_5370647375414940654_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=UdnVTT0_wAsAX9iFuki&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9zSW1WdtPyt_z8DTl_SSq1z397ZAv_WPFmyg3HBHevow&oe=632CF0A1&_nc_sid=5cbaad
+False - 0.71857861 - .\Potential_target_image\Nico Masino\Nico Masino_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/295069526_133880795750022_5370647375414940654_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=UdnVTT0_wAsAX9iFuki&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9zSW1WdtPyt_z8DTl_SSq1z397ZAv_WPFmyg3HBHevow&oe=632CF0A1&_nc_sid=5cbaad
+Result: False
+
+False - 0.70449708 - .\Potential_target_image\Nico Masino\Nico Masino.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/296459715_116439511026701_4091459472110264566_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=2kp4Bdo9KIYAX_gVICg&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8dRdA33DIV6EAHtrAx02F8PWEZQ5UcYtxa3a92A0eH-A&oe=632BF69A&_nc_sid=5cbaad
+False - 0.8590977 - .\Potential_target_image\Nico Masino\Nico Masino_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/296459715_116439511026701_4091459472110264566_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=2kp4Bdo9KIYAX_gVICg&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8dRdA33DIV6EAHtrAx02F8PWEZQ5UcYtxa3a92A0eH-A&oe=632BF69A&_nc_sid=5cbaad
+Result: False
+
+False - 0.82027245 - .\Potential_target_image\Nico Masino\Nico Masino.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/222977982_129188662700298_4328374063948839002_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=O3gH8HwdZjMAX-8FMBo&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8WQJU8XHLA2dL8K1YVD3x4PKqj5HTq0NKA7MykhRHHBA&oe=632C711D&_nc_sid=5cbaad
+False - 0.81905625 - .\Potential_target_image\Nico Masino\Nico Masino_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/222977982_129188662700298_4328374063948839002_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=O3gH8HwdZjMAX-8FMBo&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8WQJU8XHLA2dL8K1YVD3x4PKqj5HTq0NKA7MykhRHHBA&oe=632C711D&_nc_sid=5cbaad
+Result: False
+
+False - 0.76177175 - .\Potential_target_image\Nico Masino\Nico Masino.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/173173506_1162389300884351_3857046971239805860_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=g9qk4Tyz8AsAX8iy4S5&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-AaIfoeQd8CdMuDk8wo_YfwyenqO4Q4gqR4NvKKuqDDQ&oe=632D0257&_nc_sid=5cbaad
+False - 0.82545109 - .\Potential_target_image\Nico Masino\Nico Masino_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/173173506_1162389300884351_3857046971239805860_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=g9qk4Tyz8AsAX8iy4S5&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-AaIfoeQd8CdMuDk8wo_YfwyenqO4Q4gqR4NvKKuqDDQ&oe=632D0257&_nc_sid=5cbaad
+Result: False
+
+False - 0.68880236 - .\Potential_target_image\Nico Masino\Nico Masino.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/301481589_184651240644496_6621904975596312667_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=rf30eU0_y_MAX-b5stz&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_mpF_flMTJYRYPdx_M8E-EqVvp2O75CID-I0x8Sf4x9g&oe=632C574B&_nc_sid=5cbaad
+False - 0.78532541 - .\Potential_target_image\Nico Masino\Nico Masino_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/301481589_184651240644496_6621904975596312667_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=rf30eU0_y_MAX-b5stz&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_mpF_flMTJYRYPdx_M8E-EqVvp2O75CID-I0x8Sf4x9g&oe=632C574B&_nc_sid=5cbaad
+Result: False
+
+False - 0.72599633 - .\Potential_target_image\Nico Masino\Nico Masino.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/238842786_369464561221404_7750467002548034278_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=hPBFw2bLpukAX8hrxNk&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-KI8CquKnLlycC_iEcTVPH3D-PEQBa7nC0JThJnFE5Og&oe=632C041A&_nc_sid=5cbaad
+False - 0.80042821 - .\Potential_target_image\Nico Masino\Nico Masino_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/238842786_369464561221404_7750467002548034278_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=hPBFw2bLpukAX8hrxNk&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT-KI8CquKnLlycC_iEcTVPH3D-PEQBa7nC0JThJnFE5Og&oe=632C041A&_nc_sid=5cbaad
+Result: False
+
+False - 0.81416663 - .\Potential_target_image\Nico Masino\Nico Masino.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/175951341_480580053256069_2164925173380850016_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=BtSr7YCNKV0AX8Z6uT1&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9XCQeD_PmyVScxG1Cqj0BppS2XeNECLMRrMWhMesfpbQ&oe=632B7BF6&_nc_sid=5cbaad
+False - 0.91974073 - .\Potential_target_image\Nico Masino\Nico Masino_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/175951341_480580053256069_2164925173380850016_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=BtSr7YCNKV0AX8Z6uT1&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9XCQeD_PmyVScxG1Cqj0BppS2XeNECLMRrMWhMesfpbQ&oe=632B7BF6&_nc_sid=5cbaad
+Result: False
+
+False - 0.86298832 - .\Potential_target_image\Nico Masino\Nico Masino.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/11142760_804657459623331_1694458919_a.jpg?_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=J4QMIdkLFTsAX-2tLB3&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8YmVzJQIP1cfrGiXnGuRJkCNmuaLjq6dDbZBjmSLk8Kg&oe=632C4B78&_nc_sid=5cbaad
+False - 0.9597713 - .\Potential_target_image\Nico Masino\Nico Masino_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/11142760_804657459623331_1694458919_a.jpg?_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=J4QMIdkLFTsAX-2tLB3&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8YmVzJQIP1cfrGiXnGuRJkCNmuaLjq6dDbZBjmSLk8Kg&oe=632C4B78&_nc_sid=5cbaad
+Result: False
+
+False - 0.80824447 - .\Potential_target_image\Nico Masino\Nico Masino.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/96892242_167041911391969_4835243764878409728_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=Bk1orr4z6OIAX9uuVKD&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9CldvVNT5GYuj1-08uwt2lQYh_ImCNauCjZFxy4eP7Bw&oe=632B4677&_nc_sid=5cbaad
+False - 0.87815838 - .\Potential_target_image\Nico Masino\Nico Masino_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/96892242_167041911391969_4835243764878409728_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=Bk1orr4z6OIAX9uuVKD&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9CldvVNT5GYuj1-08uwt2lQYh_ImCNauCjZFxy4eP7Bw&oe=632B4677&_nc_sid=5cbaad
+Result: False
+
+False - 0.80901173 - .\Potential_target_image\Nico Masino\Nico Masino.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/147492233_554761418814291_8601038893063613702_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=zPMMUDnALT4AX8FSdbb&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9rD0_lt7nobG-t6oocPxLtDwfnyWxYbFM8xyMJnFdmkQ&oe=632CE466&_nc_sid=5cbaad
+False - 0.87694882 - .\Potential_target_image\Nico Masino\Nico Masino_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/147492233_554761418814291_8601038893063613702_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=zPMMUDnALT4AX8FSdbb&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9rD0_lt7nobG-t6oocPxLtDwfnyWxYbFM8xyMJnFdmkQ&oe=632CE466&_nc_sid=5cbaad
+Result: False
+
+Nico Masino - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+

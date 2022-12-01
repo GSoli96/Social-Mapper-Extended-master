@@ -1,0 +1,23 @@
+Francesca Figliuolo - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.67618067 - .\Potential_target_image\Francesca Figliuolo\Francesca Figliuolo.jpg - https://scontent.fmxp6-1.fna.fbcdn.net/v/t39.30808-6/296706863_184612303947200_3875337195837315204_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=miZT25waV0wAX-8MAzd&_nc_oc=AQnASx-QQtLbhMtP55tsjRGqTn7a8kRatziGXL3XBWoaZYt1HmzRaKzeXJZpKDB0SGCLC1o3IqSd5-M0jGTT52Bl&_nc_ht=scontent.fmxp6-1.fna&oh=00_AT9nakGLdM1YYgInES0198jrqVolQazj2Wsx-aBmDzxRjA&oe=632AFC09
+Result: False
+
+True - 0. - .\Potential_target_image\Francesca Figliuolo\Francesca Figliuolo.jpg - https://scontent.fmxp6-1.fna.fbcdn.net/v/t1.6435-9/39090076_1090986054389153_5220901346676310016_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=vQ9iiZHekzAAX9rDehd&_nc_ht=scontent.fmxp6-1.fna&oh=00_AT82iINIxpS3ELCoTNPns3EV7RbtinkUwvEpU-xJhTJjEw&oe=634C63F3
+Result: True
+
+Francesca Figliuolo - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.73168398 - .\Potential_target_image\Francesca Figliuolo\Francesca Figliuolo.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/43985765_2096825977008281_4016010355535773696_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=cbNJ1BJitxAAX8XX8xY&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9FIiJQT_D7_msLt-GPMb2swZ6sGLti6wRzhAYg0_BltA&oe=632C17C2&_nc_sid=5cbaad
+False - 0.73168398 - .\Potential_target_image\Francesca Figliuolo\Francesca Figliuolo_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/43985765_2096825977008281_4016010355535773696_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=cbNJ1BJitxAAX8XX8xY&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9FIiJQT_D7_msLt-GPMb2swZ6sGLti6wRzhAYg0_BltA&oe=632C17C2&_nc_sid=5cbaad
+Result: False
+
+Francesca Figliuolo - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+
+True - 0.37624121 - .\Potential_target_image\Francesca Figliuolo\Francesca Figliuolo.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQFgx5D_QUgGMA/profile-displayphoto-shrink_100_100/0/1631798511774?e=1668643200&v=beta&t=fZTdJ9Idyfq-jA6SO_pJc3R-WYS7b8j19GBlpyc_dzo
+True - 0.37624121 - .\Potential_target_image\Francesca Figliuolo\Francesca Figliuolo_FB.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQFgx5D_QUgGMA/profile-displayphoto-shrink_100_100/0/1631798511774?e=1668643200&v=beta&t=fZTdJ9Idyfq-jA6SO_pJc3R-WYS7b8j19GBlpyc_dzo
+Result: True
+

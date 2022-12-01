@@ -1,0 +1,45 @@
+Giuseppe Cosenza - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.79627893 - .\Potential_target_image\Giuseppe Cosenza\Giuseppe Cosenza.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t39.30808-6/261808780_293558822662058_6340376596015453994_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Kt6deJujyGYAX9wHOrp&_nc_ht=scontent.fnap2-1.fna&oh=00_AT9pYXZ-0z5L4UT7C13Qq4f3H6hCV7XhXhkGWoO2Ats8QQ&oe=6329E74F
+Result: False
+
+False - 0.84894339 - .\Potential_target_image\Giuseppe Cosenza\Giuseppe Cosenza.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t39.30808-6/301787511_5449341505102013_9067852108766874019_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=u5Ka4QF2NwcAX_5EpfW&_nc_ht=scontent.fnap2-1.fna&oh=00_AT9SrpVCSC8r-sOGJEhx1dSNS8z1szO2PQKplu8mm40obA&oe=632A4B89
+Result: False
+
+False - 0.7253328 - .\Potential_target_image\Giuseppe Cosenza\Giuseppe Cosenza.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t39.30808-6/242411933_589947372023817_5854980735967423282_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=E_1oqcCQug0AX9S3Fj-&_nc_ht=scontent.fnap2-1.fna&oh=00_AT8_S3Rl3MghBh4p230Y7LwUo3YhePjEfcIln86Va-qVgQ&oe=632A9AAA
+Result: False
+
+False - 0.68377647 - .\Potential_target_image\Giuseppe Cosenza\Giuseppe Cosenza.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t39.30808-6/279579337_10222388463208003_8592148169390185495_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=uFzVfHMui9kAX_gzTv0&_nc_ht=scontent.fnap2-1.fna&oh=00_AT_NCV6F5mMJ5Eko6FAAQEBX6Ju5TZdYWkI3Nl17K88NWA&oe=632AD33E
+Result: False
+
+False - 0.72575987 - .\Potential_target_image\Giuseppe Cosenza\Giuseppe Cosenza.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t1.6435-9/118970497_695233088088115_6397163747570936403_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=SOkvksxaIkAAX8XEYgW&_nc_ht=scontent.fnap2-1.fna&oh=00_AT-jYFelO3fHbUmBfv7fMxfG0QYm74iC2i-GNFZ2wiIlGA&oe=634A3ABC
+Result: False
+
+False - 0.72000195 - .\Potential_target_image\Giuseppe Cosenza\Giuseppe Cosenza.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t1.18169-9/10399821_122478364817285_8002811529061422887_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=J0Uj06bo9gMAX_A6xZK&_nc_ht=scontent.fnap2-1.fna&oh=00_AT9TB3wppGdRecXj2LIF4elzeqaBP7EBakAgo5MAC2CvqQ&oe=634C2846
+Result: False
+
+Giuseppe Cosenza - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.67138689 - .\Potential_target_image\Giuseppe Cosenza\Giuseppe Cosenza.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/277444164_126638703045605_3338892405001413372_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=Fj3BCMAMFgwAX9dLO3p&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9SxPFWwh-IFTrMVXX8qL8P_GQV8SMrNNy_NR8gU8Ze_A&oe=632C1906&_nc_sid=5cbaad
+Result: False
+
+False - 0.69430902 - .\Potential_target_image\Giuseppe Cosenza\Giuseppe Cosenza.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/12918557_951547944963590_883860982_a.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=XCPgUgCsxugAX93zaPN&tn=owHJ2loo8OGPMDvO&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9-u_1oYsWOnsZmBEBDU8EiGGbVF1w5omI51Jid5AfJng&oe=632D2890&_nc_sid=5cbaad
+Result: False
+
+False - 0.69069341 - .\Potential_target_image\Giuseppe Cosenza\Giuseppe Cosenza.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/93261617_664389364362626_6432444967280443392_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=WBjzz4UM0oIAX_zv7zY&tn=owHJ2loo8OGPMDvO&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_YN3gRXX1dYMmY0cnccRoJUCH35i410MkyZkfUZ-ptmw&oe=632B90C0&_nc_sid=5cbaad
+Result: False
+
+False - 0.73834589 - .\Potential_target_image\Giuseppe Cosenza\Giuseppe Cosenza.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/289471854_756009688741853_3943656696505475006_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=FJBNWvafax0AX8a4Rcg&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9IFoDqDPaY-V46_v2XvIudyrlZ5aJyO4FJ8VhrLp-0og&oe=632B9EB5&_nc_sid=5cbaad
+Result: False
+
+False - 0.75827765 - .\Potential_target_image\Giuseppe Cosenza\Giuseppe Cosenza.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/295801980_724061111992030_5155586937019071046_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=8HhggkT9MxQAX8RoiSp&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9MZjRHgxWGtULmA7IH-IlOLcoZyMvrF1G2lJrnDwYwBw&oe=632C5843&_nc_sid=5cbaad
+Result: False
+
+True - 0.42997083 - .\Potential_target_image\Giuseppe Cosenza\Giuseppe Cosenza.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/294224976_2925114044448525_5536785879198542763_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=_0t1W1ln5nUAX9Rngwz&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9fgbDnKYEKeaE2h4ISAPCiDW4d8U7OsI0OHAK6AOdDnQ&oe=632C7605&_nc_sid=5cbaad
+Result: True
+
+Giuseppe Cosenza - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+

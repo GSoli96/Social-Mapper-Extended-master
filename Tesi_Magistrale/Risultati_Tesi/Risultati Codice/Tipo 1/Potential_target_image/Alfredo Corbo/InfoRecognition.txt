@@ -1,0 +1,36 @@
+Alfredo Corbo - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.82771355 - .\Potential_target_image\Alfredo Corbo\Alfredo Corbo.jpg - https://scontent.fmxp11-1.fna.fbcdn.net/v/t39.30808-1/277802740_5270569976307470_5084292906663128596_n.jpg?stp=dst-jpg_p200x200&_nc_cat=101&ccb=1-7&_nc_sid=7206a8&_nc_ohc=ipyTuwZ2SocAX9c7Z5S&_nc_ht=scontent.fmxp11-1.fna&oh=00_AT8Wwrg9i_YqiBwOf0uuXN6TVcw-87ToNFCUwB69EfhjkA&oe=634D5396
+Result: False
+
+False - 0.84215894 - .\Potential_target_image\Alfredo Corbo\Alfredo Corbo.jpg - https://scontent.fmxp11-1.fna.fbcdn.net/v/t39.30808-1/218263049_4062653620496571_8191567212160007659_n.jpg?stp=dst-jpg_s200x200&_nc_cat=101&ccb=1-7&_nc_sid=7206a8&_nc_ohc=LvGK_0zC7xIAX81AEh_&_nc_ht=scontent.fmxp11-1.fna&oh=00_AT9Ksz4OY_ckAijOHzIBzgQo2gFGs6tjZucLhDgcwZT7Ng&oe=634D4596
+Result: False
+
+False - 0.81825389 - .\Potential_target_image\Alfredo Corbo\Alfredo Corbo.jpg - https://scontent.fmxp11-1.fna.fbcdn.net/v/t1.6435-1/86235500_775775962916655_1281692539765653504_n.jpg?stp=dst-jpg_p200x200&_nc_cat=105&ccb=1-7&_nc_sid=7206a8&_nc_ohc=MqYnj1NIHCwAX9N0EhN&_nc_ht=scontent.fmxp11-1.fna&oh=00_AT9JGiBjuWAvR-TZg74DT4h_VtQZBDz6Lmqcshrkw4rRDg&oe=636D68D3
+Result: False
+
+Alfredo Corbo - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.82651005 - .\Potential_target_image\Alfredo Corbo\Alfredo Corbo.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/12331724_1508176226143523_687184628_a.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=WI_Wr0SDFO0AX-0FRvk&tn=UljquCp5tZMBrq6n&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT97FFayB-vd0TqMAk_LV59JcfphEs0z7178gBnmYWnkhQ&oe=634F0474&_nc_sid=5cbaad
+Result: False
+
+False - 0.84570839 - .\Potential_target_image\Alfredo Corbo\Alfredo Corbo.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/209317781_294777289105107_8136889149754404466_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=nhkJ9g35WDYAX9yLfnW&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_psxh0BnmwuE43amvg6iDt9qwS_h3Eu3-V6yffYC2iZg&oe=634F4C47&_nc_sid=5cbaad
+Result: False
+
+False - 0.68304317 - .\Potential_target_image\Alfredo Corbo\Alfredo Corbo.jpg - https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.2885-19/26154565_158443801597349_632785580488392704_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=riNPIPRgraYAX_vAbBX&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT8jaSjQKRGNDlnpJSS52sN9Kwdfb69gv10bhgdY-ps_3Q&oe=634FC773&_nc_sid=5cbaad
+Result: False
+
+Alfredo Corbo - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.85993167 - .\Potential_target_image\Alfredo Corbo\Alfredo Corbo.jpg - https://media-exp1.licdn.com/dms/image/C5603AQE7kPXqiTvMXw/profile-displayphoto-shrink_100_100/0/1517047961254?e=1671062400&v=beta&t=a7gPIU2Bmljt213_H3DajyGDv7ri9KUx3tgH1b7EZXc
+Result: False
+
+True - 0.59136067 - .\Potential_target_image\Alfredo Corbo\Alfredo Corbo.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQH4LunBbqDYBQ/profile-displayphoto-shrink_100_100/0/1590527110037?e=1671062400&v=beta&t=F9iYdh0gLmShjSETtApcZ671UmAvbogAtiqy64S_PKA
+Result: True
+
+False - 0.73807135 - .\Potential_target_image\Alfredo Corbo\Alfredo Corbo.jpg - https://media-exp1.licdn.com/dms/image/C4D03AQEG8xYqZiUXxg/profile-displayphoto-shrink_100_100/0/1657535258169?e=1671062400&v=beta&t=Jf_6fwbdZ7bkQ2TfqdaCEjY0_nWHLi0c3y-otf89dVA
+Result: False
+

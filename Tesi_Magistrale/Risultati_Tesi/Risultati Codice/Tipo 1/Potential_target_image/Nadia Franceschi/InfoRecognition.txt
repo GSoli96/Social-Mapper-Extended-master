@@ -1,0 +1,24 @@
+Nadia Franceschi - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.63860973 - .\Potential_target_image\Nadia Franceschi\Nadia Franceschi.jpg - https://scontent.fmxp6-1.fna.fbcdn.net/v/t1.18169-9/12509493_1079330012118642_3107052830658408685_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=rMEQWrFaZWEAX96YVZ2&_nc_ht=scontent.fmxp6-1.fna&oh=00_AT_IpahRHAesVfRsOBrz4Y3aZwveQ1SFFoxfhFIPvBUJyA&oe=634E90A2
+Result: False
+
+False - 0.77307509 - .\Potential_target_image\Nadia Franceschi\Nadia Franceschi.jpg - https://scontent.fmxp6-1.fna.fbcdn.net/v/t39.30808-6/281917631_8101401689885733_5852845568291100395_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=87RuNdaSm9kAX-tScq0&_nc_ht=scontent.fmxp6-1.fna&oh=00_AT8QRATnvz_YM-eOEtc8u-6LvWlrh6a7MwwpJZIka0zoMw&oe=632DAFCD
+Result: False
+
+False - 0.75210301 - .\Potential_target_image\Nadia Franceschi\Nadia Franceschi.jpg - https://scontent.fmxp6-1.fna.fbcdn.net/v/t1.6435-9/163824016_1193121681129167_54497145043527856_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=oTxuTeiXzm4AX_h29eN&_nc_ht=scontent.fmxp6-1.fna&oh=00_AT98DDdxbmsyJViT2CCroO5AQz46ELgPyFBmvNLIdnYeGA&oe=634E9871
+Result: False
+
+False - 0.62632425 - .\Potential_target_image\Nadia Franceschi\Nadia Franceschi.jpg - https://scontent.fmxp6-1.fna.fbcdn.net/v/t1.6435-9/79151464_735163086988816_7341135063565729792_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=dTS4Zz9jo7kAX_5iu-d&_nc_ht=scontent.fmxp6-1.fna&oh=00_AT_9SrVqVHASZu48KcZeu272JIOv8fYZ0rYeySupXS_x_w&oe=634E8A73
+Result: False
+
+Nadia Franceschi - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+Nadia Franceschi - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.7176776 - .\Potential_target_image\Nadia Franceschi\Nadia Franceschi.jpg - https://media-exp1.licdn.com/dms/image/C5603AQGLb9AwSXopJA/profile-displayphoto-shrink_100_100/0/1634583517404?e=1669248000&v=beta&t=yxmLVSZBenZXDd-SyxJLITg05xQyNDk9T1ZQIYYm0rs
+Result: False
+

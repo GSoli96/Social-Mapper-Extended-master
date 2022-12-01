@@ -1,0 +1,16 @@
+Sesto Solimando - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+True - 0.14362806 - .\Potential_target_image\Sesto Solimando\Sesto Solimando.jpg - https://scontent.fmxp6-1.fna.fbcdn.net/v/t31.18172-1/12698526_833415946785129_7395991446593477014_o.jpg?stp=dst-jpg_p200x200&_nc_cat=101&ccb=1-7&_nc_sid=7206a8&_nc_ohc=9vY-uBKd6_cAX8xQs0l&_nc_ht=scontent.fmxp6-1.fna&oh=00_AT-gVFKppO7-Ss3-kTLBLQ53MkM3v0bnoEWi83v9mt8fCw&oe=634C1C5E
+Result: True
+
+Sesto Solimando - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+True - 0.26498176 - .\Potential_target_image\Sesto Solimando\Sesto Solimando.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/14063228_140460149737456_820522262_a.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=mfL9OzLcxuIAX_Ow08q&tn=o61szvshebbUQCXc&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_cVednoA9tIRiJHsDX0hcVNcFNJAw-bbiorwNFvLSYbw&oe=632CA13D&_nc_sid=5cbaad
+True - 0.20162773 - .\Potential_target_image\Sesto Solimando\Sesto Solimando_FB.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/14063228_140460149737456_820522262_a.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=mfL9OzLcxuIAX_Ow08q&tn=o61szvshebbUQCXc&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_cVednoA9tIRiJHsDX0hcVNcFNJAw-bbiorwNFvLSYbw&oe=632CA13D&_nc_sid=5cbaad
+Result: True
+
+Sesto Solimando - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+

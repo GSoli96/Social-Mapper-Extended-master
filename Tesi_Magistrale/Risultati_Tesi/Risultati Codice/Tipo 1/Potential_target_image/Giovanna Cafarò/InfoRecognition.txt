@@ -1,0 +1,42 @@
+Giovanna Cafarò - typeFacesRecognition: 1 - threshold: 0.6, Social: Facebook
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.72062536 - .\Potential_target_image\Giovanna Cafarò\Giovanna Cafarò.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t1.6435-9/90702294_869629370178151_5323744707946217472_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=31zsYaRRYqcAX-Vjqgb&_nc_ht=scontent.fnap2-1.fna&oh=00_AT9q5YuvQOsYCKP1g2n9JMlffb-Oup5V1mGVKlH2snC6Wg&oe=634B8E0A
+Result: False
+
+False - 0.65585205 - .\Potential_target_image\Giovanna Cafarò\Giovanna Cafarò.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t1.6435-9/121055561_200772784739521_6257167699340808855_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=8l8N-hKFqlAAX-ZpbYD&_nc_ht=scontent.fnap2-1.fna&oh=00_AT-LdixErFa_ikbg9Rw5-GdLrxIvw9P8MlXgMhuMIKWv-w&oe=634BBABA
+Result: False
+
+False - 0.62360306 - .\Potential_target_image\Giovanna Cafarò\Giovanna Cafarò.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t39.30808-6/277352009_1034952364085092_1131109363701498022_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=yPXbpbdeWq0AX8lDQd6&_nc_ht=scontent.fnap2-1.fna&oh=00_AT_yGS7oz8STIYCZSV5y-oe2uLM68ZxaAv5YX-zdG34Idg&oe=632AF777
+Result: False
+
+False - 0.90484714 - .\Potential_target_image\Giovanna Cafarò\Giovanna Cafarò.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t31.18172-8/1502752_264466597084942_476294852863834700_o.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=bPf2psRkKvUAX_YJGQ-&_nc_ht=scontent.fnap2-1.fna&oh=00_AT9TW5WM5LywidOKxt4bgW4FtWhiihmzcvaa4hx9xHwFSA&oe=63492A0B
+Result: False
+
+False - 0.74777733 - .\Potential_target_image\Giovanna Cafarò\Giovanna Cafarò.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t1.6435-9/43295972_542908072828288_3089848667297808384_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=sJcZxHEeGVMAX9RBbKE&_nc_ht=scontent.fnap2-1.fna&oh=00_AT-pek5g5eR9OII8kicrP7h1UxUb2DBUQLqn1s6vnNpiKg&oe=634BE5EF
+Result: False
+
+False - 0.82178814 - .\Potential_target_image\Giovanna Cafarò\Giovanna Cafarò.jpg - https://scontent.fnap2-1.fna.fbcdn.net/v/t39.30808-1/294236920_5219263798128997_7349973169659797803_n.jpg?stp=dst-jpg_s200x200&_nc_cat=104&ccb=1-7&_nc_sid=7206a8&_nc_ohc=sZ2EmxvavIIAX8O8JFY&_nc_ht=scontent.fnap2-1.fna&oh=00_AT8b8tA4ylBYSvRXaQzx9m4hmFU57SlonMmtSZGpnDA86w&oe=6329C61A
+Result: False
+
+Giovanna Cafarò - typeFacesRecognition: 1 - threshold: 0.6, Social: Instagram
+Match,Distance, Link_Image, Link_SocialImage
+
+True - 0.49674467 - .\Potential_target_image\Giovanna Cafarò\Giovanna Cafarò.jpg - https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-19/306296722_643601444007761_1547882374759935565_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=tw2Yw6ELXh8AX_jYq8p&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_OXUw6_VIDqExnicH8vnFgPSvgvynhOpNjA8g6TG929g&oe=632C182F&_nc_sid=5cbaad
+Result: True
+
+Giovanna Cafarò - typeFacesRecognition: 1 - threshold: 0.6, Social: Linkedin
+Match,Distance, Link_Image, Link_SocialImage
+
+False - 0.88190705 - .\Potential_target_image\Giovanna Cafarò\Giovanna Cafarò.jpg - https://media-exp1.licdn.com/dms/image/C4D03AQGgFR4sJTkmqQ/profile-displayphoto-shrink_100_100/0/1625136434704?e=1668643200&v=beta&t=L3t98arziMoxsQJGtfAy34Xtq6Rq8IwtGxjZ415fjA0
+False - 0.90781141 - .\Potential_target_image\Giovanna Cafarò\Giovanna Cafarò_IG.jpg - https://media-exp1.licdn.com/dms/image/C4D03AQGgFR4sJTkmqQ/profile-displayphoto-shrink_100_100/0/1625136434704?e=1668643200&v=beta&t=L3t98arziMoxsQJGtfAy34Xtq6Rq8IwtGxjZ415fjA0
+Result: False
+
+False - 0.85576795 - .\Potential_target_image\Giovanna Cafarò\Giovanna Cafarò.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQGR9P8EYSunCQ/profile-displayphoto-shrink_100_100/0/1638872434681?e=1668643200&v=beta&t=stehIYUI_5-6gKxEhUdfSBrSm-MlvP2jTkJCzn8ed_w
+False - 0.85766027 - .\Potential_target_image\Giovanna Cafarò\Giovanna Cafarò_IG.jpg - https://media-exp1.licdn.com/dms/image/C4E03AQGR9P8EYSunCQ/profile-displayphoto-shrink_100_100/0/1638872434681?e=1668643200&v=beta&t=stehIYUI_5-6gKxEhUdfSBrSm-MlvP2jTkJCzn8ed_w
+Result: False
+
+False - 0.89542064 - .\Potential_target_image\Giovanna Cafarò\Giovanna Cafarò.jpg - https://media-exp1.licdn.com/dms/image/C4D03AQGi24wS6UWS1Q/profile-displayphoto-shrink_100_100/0/1529564894672?e=1668643200&v=beta&t=5Fo4MS167UpTIbFxcaJXp0xzuwtRo5v321TX7mHkAkQ
+False - 0.86819356 - .\Potential_target_image\Giovanna Cafarò\Giovanna Cafarò_IG.jpg - https://media-exp1.licdn.com/dms/image/C4D03AQGi24wS6UWS1Q/profile-displayphoto-shrink_100_100/0/1529564894672?e=1668643200&v=beta&t=5Fo4MS167UpTIbFxcaJXp0xzuwtRo5v321TX7mHkAkQ
+Result: False
+
